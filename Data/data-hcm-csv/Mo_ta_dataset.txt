@@ -1,0 +1,34 @@
+---
+ 
+Tập dữ liệu này chứa thông tin về các bất động sản đang được đăng bán trên trang web batdongsan.com, bao gồm diện tích, giá cả, thông tin về cấu trúc và tiện ích của bất động sản, thông tin liên quan đến giấy tờ, ngày đăng và hết hạn, cũng như các thông tin vị trí và danh mục liên quan.
+
+---
+
+Mô tả về các biến trong tập dữ liệu:
+1. area: Diện tích của bất động sản (đơn vị: m²).
+2. price: Giá bất động sản hoặc loại giá thỏa thuận nếu không có giá cụ thể (đơn vị: triệu hoặc triệu/m²).
+3. facade: Chiều rộng mặt tiền của bất động sản (đơn vị: m).
+4. entrance_wid: Chiều rộng cửa vào bất động sản (đơn vị: m).
+5. floors: Số tầng của bất động sản.
+6. direction_home: Hướng của bất động sản so với hướng nhà (nếu có).
+7. direction_bal: Hướng ban công của bất động sản (nếu có).
+8. bedroom: Số lượng phòng ngủ trong bất động sản hoặc thông tin về số phòng ngủ nếu có.
+9. toilet: Số lượng phòng vệ sinh trong bất động sản hoặc thông tin về số phòng vệ sinh nếu có.
+10. status_doc: Tình trạng giấy tờ liên quan đến bất động sản (ví dụ: Sổ đỏ, Sổ hồng, Đang chờ sổ, Hợp đồng mua bán).
+11. furniture: Thông tin về nội thất trong bất động sản (ví dụ: Đầy đủ, Cơ bản).
+12. date_post: Ngày đăng tin.
+13. date_exp: Ngày hết hạn của tin đăng.
+14. intent: Mục đích của giao dịch (ví dụ: Sale).
+15. pageType: Loại trang trên trang web (ví dụ: LDP).
+16. productId: Mã sản phẩm.
+17. projectId: Mã dự án (nếu có).
+18. vipType: Loại VIP (nếu có).
+19. verified: Thông tin xác minh (True hoặc False).
+20. expired: Thông tin hết hạn (True hoặc False).
+21. cateId: Mã danh mục.
+22. cityCode: Mã thành phố.
+23. districtId: Mã quận.
+24. wardId: Mã phường.
+25. streetId: Mã đường.
+26. pageId: Mã trang.
+

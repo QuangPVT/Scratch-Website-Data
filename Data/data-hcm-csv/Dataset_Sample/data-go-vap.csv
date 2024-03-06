@@ -1,0 +1,1241 @@
+area,price,facade,entrance_wid,floors,direction_home,direction_bal,bedroom,toilet,status_doc,furniture,date_post,date_exp,intent,pageType,productId,projectId,vipType,verified,expired,cateId,cityCode,districtId,wardId,streetId,pageId
+80 m²,"10,7 tỷ",N/A,8 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,12/10/2023,22/10/2023,Sale,LDP,38305349,0,5,False,True,41,SG,67,8942,366,227
+105 m²,"7,2 tỷ",7 m,"3,5 m",2 tầng,Bắc,Bắc,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,04/10/2023,19/10/2023,Sale,LDP,38243025,0,3,False,True,41,SG,67,8943,366,227
+121 m²,"8,4 tỷ","4,2 m",6 m,5 tầng,N/A,N/A,15 phòng,15 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38093044,0,5,False,False,41,SG,67,8950,650,227
+230 m²,35 tỷ,N/A,30 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,38168786,2409,3,False,True,325,SG,67,8942,382,227
+114 m²,"4,8 tỷ","4,01 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38300585,0,5,False,False,41,SG,67,8948,795,227
+120 m²,"7,7 tỷ",4 m,6 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38262438,0,5,False,False,41,SG,67,8940,3631,227
+"73,9 m²","6,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04/10/2023,19/10/2023,Sale,LDP,38083888,0,3,False,True,41,SG,67,8938,4706,227
+90 m²,"10,3 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ hồng riêng chính chủ.,Nội thất có giường đầy đủ toàn bộ căm xe.,11/10/2023,26/10/2023,Sale,LDP,37254157,0,3,False,False,41,SG,67,8948,650,227
+72 m²,"8,3 tỷ",4 m,10 m,1 tầng,Đông - Bắc,Đông - Bắc,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,20/10/2023,30/10/2023,Sale,LDP,38136412,0,5,False,False,41,SG,67,8939,382,227
+"88,4 m²","8,5 tỷ","5,2 m",5 m,2 tầng,Đông - Nam,N/A,3 phòng,3 phòng,Đã có sổ hồng,Cơ bản,12/10/2023,19/10/2023,Sale,LDP,38209089,0,3,False,True,41,SG,67,8942,366,227
+72 m²,"6,9 tỷ",6 m,7 m,2 tầng,Tây - Nam,Tây - Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,23/10/2023,02/11/2023,Sale,LDP,37636268,0,5,False,False,41,SG,67,8938,2023,227
+53 m²,"2,1 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,32563989,2944,5,False,False,324,SG,67,8948,650,227
+180 m²,26 tỷ,"8,5 m",17 m,3 tầng,N/A,N/A,6 phòng,6 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38351338,0,5,False,False,163,SG,67,8934,792,227
+236 m²,19 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38318886,0,5,False,False,325,SG,67,8937,836,227
+550 m²,110 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,37990978,0,5,False,False,163,SG,67,8935,1433,227
+66 m²,"136,36 triệu/m²",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,38347633,0,5,False,False,41,SG,67,8938,382,227
+62 m²,"1,97 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,05/10/2023,20/10/2023,Sale,LDP,36239834,2094,3,False,True,324,SG,67,8946,4713,227
+60 m²,"7,4 tỷ",5 m,6 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38202214,0,3,False,False,41,SG,67,8938,382,227
+336 m²,33 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38209263,0,5,False,False,163,SG,67,8935,338,227
+"57,5 m²","7,4 tỷ",N/A,8 m,2 tầng,Đông - Nam,Đông - Nam,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,38012960,0,5,False,False,41,SG,67,8938,382,227
+177 m²,"14,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,37500678,0,5,False,False,163,SG,67,8940,366,227
+22 m²,"1,86 tỷ",N/A,N/A,2 tầng,Tây,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,31/10/2023,Sale,LDP,38102349,0,3,False,False,41,SG,67,8939,119,227
+51 m²,"3,3 tỷ",N/A,3 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,24/10/2023,Sale,LDP,38336794,0,3,False,False,41,SG,67,8945,232,227
+"38,5 m²","5,27 tỷ","3,5 m",5 m,4 tầng,Bắc,N/A,3 phòng,3 phòng,Đã có sổ hồng hoàn công đầy đủ,Cao cấp đầy đủ như hình,16/10/2023,23/10/2023,Sale,LDP,38333546,0,3,False,True,41,SG,67,8947,727,227
+"52,5 m²","3,9 tỷ",N/A,"2,5 m",1 tầng,Đông - Bắc,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,23/10/2023,Sale,LDP,38191374,0,3,False,True,41,SG,67,8950,2842,227
+220 m²,35 tỷ,11 m,14 m,4 tầng,Tây,N/A,8 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,23/10/2023,Sale,LDP,38164419,2409,3,False,True,325,SG,67,8942,382,227
+100 m²,"16,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38326410,2409,5,False,False,325,SG,67,8942,382,227
+110 m²,"10,2 tỷ","5,5 m",N/A,4 tầng,N/A,N/A,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,13/10/2023,20/10/2023,Sale,LDP,38318197,0,3,False,True,163,SG,67,8945,4761,227
+66 m²,"6,4 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,21/10/2023,31/10/2023,Sale,LDP,38317934,0,5,True,False,41,SG,67,8945,4761,227
+100 m²,"21,8 tỷ",N/A,N/A,5 tầng,N/A,N/A,8 phòng,6 phòng,N/A,N/A,16/10/2023,23/10/2023,Sale,LDP,35339908,2409,3,False,True,325,SG,67,8942,382,227
+48 m²,7 tỷ,"6,7 m",N/A,5 tầng,N/A,N/A,4 phòng,3 phòng,N/A,N/A,14/10/2023,21/10/2023,Sale,LDP,38322675,0,3,False,True,41,SG,67,8946,650,227
+53 m²,"5,5 tỷ",3 m,4 m,2 tầng,Đông - Nam,N/A,5 phòng,2 phòng,Đầy đủ,N/A,16/10/2023,23/10/2023,Sale,LDP,38201976,0,3,False,True,41,SG,67,8934,433,227
+100 m²,"29,18 tỷ",N/A,40 m,5 tầng,Bắc,Bắc,N/A,N/A,Hợp đồng mua bán,Cơ bản.,14/10/2023,29/10/2023,Sale,LDP,37894661,2409,3,False,False,163,SG,67,8942,382,227
+56 m²,"7,3 tỷ",N/A,N/A,4 tầng,Đông - Bắc,Đông - Bắc,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,23/10/2023,Sale,LDP,38251646,0,3,False,True,41,SG,67,8939,4709,227
+"44,5 m²","3,93 tỷ","4,5 m","3,5 m",2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,13/10/2023,28/10/2023,Sale,LDP,38317337,0,3,True,False,41,SG,67,8942,366,227
+100 m²,10 tỷ,4 m,12 m,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Nội thất cao cấp.,23/10/2023,02/11/2023,Sale,LDP,38218603,0,5,False,False,41,SG,67,8938,4773,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,21/10/2023,28/10/2023,Sale,LDP,38061389,2409,3,False,False,325,SG,67,8942,382,227
+64 m²,"14,3 tỷ",4 m,N/A,4 tầng,Bắc,N/A,4 phòng,6 phòng,Đã có sổ,Full nội thất.,16/10/2023,31/10/2023,Sale,LDP,35888688,0,5,False,False,163,SG,67,8943,11207,227
+86 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,13/10/2023,28/10/2023,Sale,LDP,34317801,2409,3,False,False,324,SG,67,8942,382,227
+52 m²,"5,45 tỷ","5,4 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38347425,0,5,False,False,41,SG,67,8936,1433,227
+60 m²,"6,5 tỷ",4 m,5 m,3 tầng,Tây - Bắc,Tây - Bắc,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,13/10/2023,20/10/2023,Sale,LDP,38314311,0,3,False,True,41,SG,67,8945,4761,227
+50 m²,"12,6 tỷ","7,23 m",10 m,5 tầng,Đông - Bắc,N/A,3 phòng,5 phòng,Đã có sổ,Cao cấp,17/10/2023,27/10/2023,Sale,LDP,38336757,0,5,False,False,41,SG,67,8950,2097,227
+54 m²,"6,2 tỷ",N/A,N/A,3 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất.,12/10/2023,19/10/2023,Sale,LDP,38305507,0,3,False,True,163,SG,67,8934,4143,227
+100 m²,"9,4 tỷ",4 m,8 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ sổ hồng.,Cao cấp.,16/10/2023,26/10/2023,Sale,LDP,38126414,0,5,False,False,41,SG,67,8943,366,227
+270 m²,"14,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37634851,0,5,False,False,283,SG,67,8950,11223,227
+52 m²,"1,45 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Hợp đồng mua bán.,Đầy đủ.,02/10/2023,01/11/2023,Sale,LDP,37804777,1293,5,False,False,324,SG,67,8947,837,227
+78 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,29/10/2023,Sale,LDP,36203576,2409,5,False,False,324,SG,67,8942,382,227
+32 m²,"2,2 tỷ",5 m,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,09/10/2023,19/10/2023,Sale,LDP,38253602,0,5,False,True,41,SG,66,8892,0,227
+53 m²,"6,8 tỷ","4,8 m",7 m,5 tầng,Đông - Nam,Đông - Nam,4 phòng,5 phòng,"Đã Có Sổ Hồng. Hoàn công đầy đủ, vuông , đẹp.",Cao Cấp.,16/10/2023,26/10/2023,Sale,LDP,37536974,0,5,False,False,41,SG,67,8938,4706,227
+65 m²,"7,5 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,33526329,0,5,False,False,41,SG,67,8949,836,227
+42 m²,"4,7 tỷ",N/A,N/A,5 tầng,N/A,N/A,3 phòng,N/A,Sổ hồng chính chủ,Nội thất đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38347865,0,5,False,False,41,SG,67,8940,366,227
+136 m²,34 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37599064,0,5,False,False,163,SG,67,8940,366,227
+68 m²,"110,29 triệu/m²",N/A,10 m,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,18/10/2023,28/10/2023,Sale,LDP,38352979,0,5,False,False,41,SG,67,8949,6940,227
+260 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37623778,0,5,False,False,283,SG,67,8946,650,227
+525 m²,"25,8 tỷ",N/A,6 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38018434,0,5,False,False,283,SG,67,8949,6940,227
+450 m²,40 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37500609,0,5,False,False,163,SG,67,8947,837,227
+865 m²,95 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37593453,0,5,False,False,163,SG,67,8945,727,227
+117 m²,"4,8 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,N/A,N/A,N/A,15/10/2023,14/11/2023,Sale,LDP,27539983,1299,5,False,False,324,SG,67,8935,1433,227
+90 m²,"6,8 tỷ",5 m,6 m,2 tầng,N/A,N/A,4 phòng,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,20717985,0,5,False,False,41,SG,67,8949,6940,227
+83 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,10/10/2023,09/11/2023,Sale,LDP,31699182,2409,5,False,False,324,SG,67,8942,382,227
+85 m²,9 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,10/11/2023,Sale,LDP,38296210,0,5,False,False,163,SG,67,8945,0,227
+90 m²,"7,7 tỷ",4 m,8 m,1 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản,12/10/2023,22/10/2023,Sale,LDP,38222088,0,5,False,True,41,SG,67,8937,650,227
+100 m²,12 tỷ,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,36985291,0,5,False,False,163,SG,67,8940,366,227
+69 m²,"7,95 tỷ",4 m,5 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Nội thất cao cấp.,18/10/2023,28/10/2023,Sale,LDP,37331963,0,5,False,False,41,SG,67,8941,837,227
+80 m²,"8,2 tỷ",5 m,6 m,4 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,11/10/2023,21/10/2023,Sale,LDP,38141436,0,5,False,True,41,SG,67,8950,2097,227
+49 m²,"6,3 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38271007,0,5,False,False,163,SG,67,8949,0,227
+79 m²,"10,7 tỷ","4,2 m",8 m,4 tầng,N/A,N/A,5 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,34099176,0,5,False,False,41,SG,67,8942,366,227
+"50,7 m²","6,9 tỷ",N/A,N/A,N/A,N/A,N/A,6 phòng,4 phòng,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,38303359,0,5,False,True,41,SG,67,8939,382,227
+68 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,38347967,0,5,False,False,41,SG,67,8942,366,227
+"244,8 m²",30 tỷ,9 m,N/A,1 tầng,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38314777,0,5,False,True,163,SG,67,8949,650,227
+372 m²,39 tỷ,N/A,25 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,30407228,0,5,False,False,163,SG,67,8949,650,227
+64 m²,35 tỷ,N/A,N/A,3 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,12/10/2023,27/10/2023,Sale,LDP,38196110,0,5,False,False,163,SG,67,8939,836,227
+"244,8 m²",30 tỷ,N/A,N/A,1 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38352880,0,5,False,False,163,SG,67,8949,650,227
+67 m²,Thỏa thuận,5 m,6 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38352709,0,5,False,False,41,SG,67,8939,4788,227
+100 m²,"11,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,23/10/2023,02/11/2023,Sale,LDP,38317439,0,5,False,False,163,SG,67,8949,836,227
+72 m²,7 tỷ,N/A,N/A,4 tầng,Nam,Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,09/10/2023,19/10/2023,Sale,LDP,38280490,0,5,False,True,41,SG,67,8949,6940,227
+100 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,25/10/2023,Sale,LDP,37938658,2409,0,False,False,325,SG,67,8942,382,227
+100 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,25/10/2023,Sale,LDP,37938842,2409,0,False,False,163,SG,67,8942,382,227
+"64,7 m²","9,6 tỷ",8 m,6 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,04/10/2023,19/10/2023,Sale,LDP,38242635,0,0,True,True,41,SG,67,8940,837,227
+42 m²,"5,5 tỷ","3,5 m",5 m,4 tầng,Nam,Nam,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,23/10/2023,30/10/2023,Sale,LDP,36697160,0,1,True,False,41,SG,67,8943,4713,227
+55 m²,9 tỷ,N/A,N/A,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,38287450,0,1,True,True,41,SG,67,8945,232,227
+270 m²,25 tỷ,N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,37917150,0,5,False,False,163,SG,67,8949,836,227
+"23,6 m²","2,6 tỷ",N/A,N/A,1 tầng,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,18/10/2023,28/10/2023,Sale,LDP,38345074,0,3,False,False,41,SG,67,8938,204,227
+36 m²,"2,75 tỷ",N/A,3 m,1 tầng,N/A,N/A,1 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,10/10/2023,25/10/2023,Sale,LDP,37874418,0,3,False,False,41,SG,67,8942,366,227
+82 m²,"5,1 tỷ",N/A,4 m,N/A,Tây - Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,02/11/2023,Sale,LDP,38351591,0,3,False,False,283,SG,67,8940,2001,227
+40 m²,"5,5 tỷ",4 m,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,18/10/2023,02/11/2023,Sale,LDP,38337369,0,3,False,False,41,SG,67,8935,4705,227
+100 m²,"16,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,22/10/2023,01/11/2023,Sale,LDP,38303185,2409,3,False,False,325,SG,67,8942,382,227
+145 m²,"11,3 tỷ","5,8 m",6 m,5 tầng,Bắc,Bắc,8 phòng,7 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,18/10/2023,25/10/2023,Sale,LDP,38205112,0,3,False,False,41,SG,67,8947,727,227
+61 m²,"2,7 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,"Khuyến mãi các đồ trong nhà như: 1 nóng lạnh, 2 máy lạnh, 1 tủ quần áo, 1 bàn làm việc, tủ bếp bàn bếp xịn, đèn trần, đèn trang trí, hệ thống chiếu sáng cơ bản.",18/10/2023,28/10/2023,Sale,LDP,38343900,1825,3,False,False,324,SG,67,8942,382,227
+100 m²,"16,5 tỷ",5 m,N/A,4 tầng,N/A,N/A,6 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,35431933,2409,3,False,False,325,SG,67,8942,382,227
+52 m²,"6,8 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,17/10/2023,24/10/2023,Sale,LDP,38222747,0,3,False,False,41,SG,67,8945,4761,227
+57 m²,"3,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,24/10/2023,Sale,LDP,38341751,0,3,False,False,41,SG,67,8943,2097,227
+28 m²,"3,55 tỷ",N/A,N/A,1 tầng,N/A,N/A,2 phòng,2 phòng,N/A,Đầy đủ.,17/10/2023,24/10/2023,Sale,LDP,37925480,0,3,False,False,41,SG,67,8943,366,227
+"25,42 m²","2,5 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất.,17/10/2023,24/10/2023,Sale,LDP,38339866,0,3,False,False,41,SG,67,8947,11271,227
+"51,6 m²","4,15 tỷ",N/A,4 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38225913,0,5,False,False,41,SG,67,8947,11273,227
+100 m²,"7,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38220898,0,5,False,False,41,SG,67,8941,837,227
+60 m²,"1,85 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Hợp đồng mua bán,Đầy đủ,16/10/2023,15/11/2023,Sale,LDP,38117408,1293,5,False,False,324,SG,67,8947,837,227
+224 m²,20 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,37917093,0,5,False,False,163,SG,67,8941,4713,227
+90 m²,"6,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38225746,0,5,False,False,41,SG,67,8945,727,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,6 phòng,4 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38268882,2409,3,False,False,325,SG,67,8942,382,227
+48 m²,Thỏa thuận,4 m,N/A,2 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,37784335,0,5,False,False,41,SG,67,8939,4709,227
+81 m²,"13,2 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,02/11/2023,Sale,LDP,37771548,0,5,False,False,163,SG,67,8949,6940,227
+270 m²,32 tỷ,12 m,N/A,6 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,36202547,0,5,False,False,163,SG,67,8939,650,227
+75 m²,Thỏa thuận,5 m,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38156801,0,5,False,False,41,SG,67,8940,11255,227
+"49,45 m²","3,85 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38158292,0,5,False,False,41,SG,67,8950,2097,227
+78 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,10/11/2023,Sale,LDP,33888896,2409,5,False,False,324,SG,67,8942,382,227
+77 m²,"3,6 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,07/10/2023,06/11/2023,Sale,LDP,33816091,2409,5,False,False,324,SG,67,8942,382,227
+52 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38169228,0,5,False,False,41,SG,67,8935,4705,227
+38 m²,"2,87 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,09/10/2023,19/10/2023,Sale,LDP,38210442,0,5,False,True,41,SG,67,8940,366,227
+60 m²,Thỏa thuận,5 m,8 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,38272659,0,5,False,False,41,SG,67,8949,1530,227
+45 m²,"3,95 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,16/10/2023,26/10/2023,Sale,LDP,38334666,0,5,False,False,41,SG,67,8942,366,227
+40 m²,"3,65 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,13/10/2023,23/10/2023,Sale,LDP,38316439,0,5,False,True,41,SG,67,8947,837,227
+76 m²,Thỏa thuận,4 m,12 m,N/A,N/A,N/A,N/A,N/A,Đã có sổ,N/A,18/10/2023,28/10/2023,Sale,LDP,38021032,0,5,False,False,283,SG,67,8948,650,227
+71 m²,30 tỷ,4 m,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38109749,0,5,False,False,163,SG,67,8938,382,227
+290 m²,"16,7 tỷ","9,8 m",6 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38016560,0,5,True,False,283,SG,67,8941,837,227
+51 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38351427,0,5,False,False,41,SG,67,8947,837,227
+"196,8 m²",37 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37852210,0,5,False,True,163,SG,67,8938,382,227
+"89,11 m²",Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38271489,0,5,False,False,41,SG,67,8942,366,227
+275 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38105752,0,5,False,True,41,SG,67,8945,727,227
+100 m²,"9,8 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38144736,0,5,False,True,41,SG,67,8937,2023,227
+"54,4 m²",Thỏa thuận,N/A,5 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38271862,0,5,False,False,41,SG,67,8936,119,227
+240 m²,26 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,37852371,0,5,False,True,163,SG,67,8949,836,227
+100 m²,"20,5 tỷ",N/A,N/A,N/A,N/A,N/A,7 phòng,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37957924,0,5,False,True,163,SG,67,8936,4709,227
+110 m²,"16,5 tỷ","4,5 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38017202,0,5,False,False,163,SG,67,8939,382,227
+"163,8 m²","9,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38343934,0,5,False,False,41,SG,67,8950,2097,227
+162 m²,Thỏa thuận,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38350374,0,5,False,False,163,SG,67,8937,2023,227
+304 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,36491657,0,5,False,False,163,SG,67,8948,650,227
+70 m²,Thỏa thuận,12 m,9 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38352114,0,5,False,False,283,SG,67,8946,650,227
+745 m²,82 tỷ,N/A,N/A,1 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,23/10/2023,07/11/2023,Sale,LDP,38304435,0,5,False,False,163,SG,67,8950,11207,227
+"61,5 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38029196,0,5,False,False,41,SG,67,8941,2095,227
+52 m²,Thỏa thuận,N/A,9 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38352085,0,5,False,False,283,SG,67,8937,836,227
+50 m²,"7,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,38351986,0,5,False,False,163,SG,67,8942,2097,227
+225 m²,38 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,36727449,0,5,False,False,163,SG,67,8939,4709,227
+48 m²,"4,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,37082438,0,5,False,False,41,SG,67,8939,4709,227
+78 m²,"3,7 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,32042075,2409,5,False,False,324,SG,67,8942,382,227
+43 m²,"3,7 tỷ",7 m,N/A,N/A,Nam,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,36918615,0,5,False,False,41,SG,67,8940,366,227
+54 m²,"6,2 tỷ",N/A,4 m,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38351762,0,5,False,False,41,SG,67,8947,11266,227
+54 m²,"5,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38351648,0,5,False,False,41,SG,67,8935,4705,227
+100 m²,"12,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38183848,0,5,False,False,41,SG,67,8939,650,227
+80 m²,14 tỷ,N/A,N/A,5 tầng,N/A,N/A,7 phòng,8 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38122486,0,5,False,False,163,SG,67,8940,11277,227
+54 m²,"4,6 tỷ","3,6 m",4 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,14/11/2023,Sale,LDP,36907860,0,5,False,False,41,SG,67,8945,232,227
+"5.523,6 m²",600 tỷ,45 m,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,02/11/2023,Sale,LDP,38349789,0,5,False,False,163,SG,67,8937,2023,227
+30 m²,"3,4 tỷ",3 m,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,38351266,0,5,False,False,41,SG,67,8950,6940,227
+103 m²,"13,5 tỷ",5 m,4 m,3 tầng,Đông - Nam,Đông - Nam,2 phòng,4 phòng,Sổ hồng,Nội thất đầy đủ.,15/10/2023,14/11/2023,Sale,LDP,33479254,0,5,False,False,41,SG,67,8934,1530,227
+52 m²,"8,28 tỷ",4 m,5 m,4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Nội thất cao cấp,15/10/2023,14/11/2023,Sale,LDP,36853239,0,5,False,False,41,SG,67,8945,366,227
+20 m²,"3,45 tỷ",4 m,6 m,4 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,14/11/2023,Sale,LDP,36264006,0,5,False,False,41,SG,67,8949,11217,227
+29 m²,"3,55 tỷ","3,87 m",6 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,14/11/2023,Sale,LDP,36270397,0,5,False,False,41,SG,67,8949,11217,227
+56 m²,"5,2 tỷ",4 m,6 m,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,14/11/2023,Sale,LDP,36917793,0,5,False,False,41,SG,67,8945,727,227
+9 m²,"1,4 tỷ","4,12 m","2,5 m",2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,14/11/2023,Sale,LDP,36121677,0,5,False,False,41,SG,67,8942,382,227
+48 m²,"7,96 tỷ",4 m,4 m,5 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,14/11/2023,Sale,LDP,36891643,0,5,False,False,41,SG,67,8941,837,227
+100 m²,Thỏa thuận,5 m,16 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37624934,0,5,False,False,325,SG,67,8939,4710,227
+75 m²,"4,1 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,36558581,2256,5,False,False,324,SG,67,8934,433,227
+56 m²,"5,2 tỷ",4 m,6 m,2 tầng,Đông - Nam,Đông - Nam,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,23/10/2023,02/11/2023,Sale,LDP,38284183,0,5,False,False,41,SG,67,8949,6940,227
+100 m²,16 tỷ,N/A,N/A,4 tầng,N/A,N/A,6 phòng,4 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38088024,1325,5,False,False,325,SG,67,8938,382,227
+36 m²,"3,3 tỷ",3 m,3 m,2 tầng,Đông - Bắc,Đông - Bắc,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,12/10/2023,22/10/2023,Sale,LDP,38305626,0,5,False,True,41,SG,67,8950,2842,227
+32 m²,"3,45 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38254058,0,5,False,False,41,SG,67,8950,837,227
+150 m²,7 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38346900,0,5,False,False,283,SG,67,8946,650,227
+100 m²,"7,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,28/10/2023,Sale,LDP,37682725,0,5,False,False,41,SG,67,8949,650,227
+"65,5 m²",6 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38347398,0,5,False,False,41,SG,67,8937,2023,227
+55 m²,"5,9 tỷ",N/A,N/A,5 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38350872,0,5,False,False,41,SG,67,8943,2097,227
+55 m²,"7,85 tỷ",N/A,"4,5 m",4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,37476176,0,5,False,False,41,SG,67,8942,366,227
+300 m²,"16,5 tỷ",10 m,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38018449,0,5,False,False,283,SG,67,8941,13732,227
+55 m²,"1,55 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Hợp đồng mua bán,Đầy đủ,02/10/2023,01/11/2023,Sale,LDP,37874351,1293,5,False,False,324,SG,67,8947,837,227
+68 m²,"1,9 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38340764,1293,5,False,False,324,SG,67,8947,837,227
+41 m²,"3,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,09/10/2023,19/10/2023,Sale,LDP,38276414,0,5,False,True,41,SG,67,8947,837,227
+100 m²,5 tỷ,N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,21/10/2023,Sale,LDP,38075304,0,5,False,True,41,SG,67,8947,366,227
+49 m²,"6,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38283924,0,5,False,True,41,SG,67,8949,836,227
+599 m²,69 tỷ,"18,25 m",10 m,N/A,Đông - Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,20/10/2023,30/10/2023,Sale,LDP,38135251,0,5,False,False,283,SG,67,8937,2023,227
+81 m²,"3,05 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38350969,1245,5,False,False,324,SG,67,8937,6938,227
+60 m²,"7,8 tỷ",4 m,4 m,4 tầng,Đông - Nam,Đông - Nam,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,38351185,0,5,False,False,41,SG,67,8938,4706,227
+69 m²,"1,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,25/09/2023,25/10/2023,Sale,LDP,36256368,1220,5,False,False,324,SG,67,8947,11273,227
+220 m²,35 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38330626,2409,5,False,False,163,SG,67,8942,382,227
+60 m²,"1,9 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Hợp đồng mua bán,Đầy đủ,16/10/2023,15/11/2023,Sale,LDP,38117360,1293,5,False,False,324,SG,67,8947,837,227
+76 m²,"7,9 tỷ","5,2 m",5 m,3 tầng,Đông - Nam,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38349507,0,5,False,False,41,SG,67,8938,4706,227
+520 m²,"28,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38349542,0,5,False,False,41,SG,67,8949,6940,227
+30 m²,"3,87 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,37777959,0,5,False,False,41,SG,67,8934,1530,227
+"49,4 m²","4,25 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38350887,0,5,False,False,41,SG,67,8936,338,227
+56 m²,"7,1 tỷ",N/A,5 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38342224,0,5,False,False,41,SG,67,8943,366,227
+56 m²,"7,2 tỷ",5 m,5 m,4 tầng,Đông - Bắc,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38348917,0,5,False,False,41,SG,67,8943,366,227
+200 m²,"14,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38349349,0,5,False,False,41,SG,67,8938,2023,227
+64 m²,"8,6 tỷ",N/A,8 m,5 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38063372,0,5,False,False,41,SG,67,8945,232,227
+198 m²,"12,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38349428,0,5,False,False,41,SG,67,8949,650,227
+75 m²,"3,6 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,13/10/2023,23/10/2023,Sale,LDP,38310756,2409,5,False,True,324,SG,67,8942,382,227
+48 m²,"4,2 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,12/10/2023,22/10/2023,Sale,LDP,38301625,0,5,False,True,41,SG,67,8943,2097,227
+180 m²,"21,5 tỷ",10 m,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38253940,0,5,False,False,41,SG,67,8939,382,227
+"47,5 m²","6,8 tỷ",5 m,8 m,2 tầng,Đông - Nam,Đông - Nam,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,23/10/2023,02/11/2023,Sale,LDP,38287566,0,5,False,False,163,SG,67,8939,5143,227
+50 m²,"4,68 tỷ",5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38102161,0,5,False,False,41,SG,67,8947,727,227
+350 m²,110 triệu/tháng,N/A,N/A,6 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Rent,LDP,38350644,0,5,False,False,51,SG,67,8940,366,227
+42 m²,"5,1 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38350076,0,5,False,False,41,SG,67,8945,727,227
+"32,4 m²","2,88 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,3 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38350519,0,5,False,False,41,SG,67,8943,2097,227
+120 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,37135936,0,5,False,False,41,SG,67,8938,2023,227
+45 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,38237616,0,5,False,False,41,SG,67,8942,366,227
+100 m²,"16,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,21/10/2023,31/10/2023,Sale,LDP,32349167,2409,5,False,False,325,SG,67,8942,382,227
+250 m²,58 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37284169,2409,5,False,False,325,SG,67,8942,382,227
+"91,1 m²","4,1 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Full nội thất.,18/10/2023,28/10/2023,Sale,LDP,35644703,1109,5,False,False,324,SG,67,8935,4707,227
+55 m²,"5,1 tỷ",4 m,6 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38350183,0,5,False,False,41,SG,67,8945,727,227
+220 m²,35 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,21/10/2023,31/10/2023,Sale,LDP,33076752,2409,5,False,False,325,SG,67,8942,382,227
+100 m²,28 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21/10/2023,31/10/2023,Sale,LDP,38074492,2409,5,False,False,325,SG,67,8942,11219,227
+53 m²,"6,4 tỷ",4 m,6 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,37180869,0,5,False,True,41,SG,67,8942,6940,227
+100 m²,"10,5 tỷ",5 m,10 m,1 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38347492,0,5,False,False,41,SG,67,8939,3917,227
+100 m²,Thỏa thuận,5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,37707565,2409,5,False,True,325,SG,67,8942,382,227
+40 m²,"5,9 tỷ",4 m,5 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Chuẩn,Cơ bản.,12/10/2023,22/10/2023,Sale,LDP,38212217,0,5,False,True,41,SG,67,8936,4706,227
+36 m²,Thỏa thuận,3 m,5 m,2 tầng,Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,22/10/2023,01/11/2023,Sale,LDP,38217053,0,5,False,False,41,SG,67,8942,2097,227
+"48,16 m²",Thỏa thuận,4 m,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38349995,0,5,False,False,41,SG,67,8934,433,227
+865 m²,95 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,38277273,0,5,False,False,163,SG,67,8945,727,227
+"212,5 m²",21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38279030,0,5,False,False,163,SG,67,8943,4713,227
+54 m²,"1,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37916497,1293,5,False,False,324,SG,67,8947,837,227
+60 m²,"8,7 tỷ",4 m,5 m,4 tầng,Nam,Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,37117960,0,5,False,False,41,SG,67,8935,4707,227
+60 m²,"5,8 tỷ",4 m,6 m,1 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38348609,0,5,False,False,41,SG,67,8935,4707,227
+52 m²,"1,45 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Hợp đồng mua bán,N/A,13/10/2023,23/10/2023,Sale,LDP,38310442,1293,5,False,True,324,SG,67,8947,837,227
+125 m²,"8,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37514765,0,5,False,False,41,SG,67,8943,2097,227
+60 m²,"7,7 tỷ",4 m,5 m,4 tầng,Tây - Nam,Tây - Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,36346410,0,5,False,False,41,SG,67,8935,1994,227
+34 m²,Thỏa thuận,N/A,N/A,1 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,18/10/2023,28/10/2023,Sale,LDP,38346373,0,5,False,False,41,SG,67,8942,650,227
+100 m²,7 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38242512,0,5,False,False,41,SG,67,8943,4713,227
+160 m²,"18,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38349404,0,5,False,False,41,SG,67,8938,2023,227
+400 m²,40 tỷ,10 m,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38349525,0,5,False,False,163,SG,67,8937,366,227
+82 m²,"2,5 tỷ",N/A,N/A,N/A,N/A,Đông - Nam,2 phòng,2 phòng,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38310847,1245,5,False,False,324,SG,67,8937,6938,227
+76 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,09/10/2023,08/11/2023,Sale,LDP,38277704,2409,5,False,False,324,SG,67,8942,382,227
+60 m²,"5,6 tỷ",N/A,6 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,18/10/2023,28/10/2023,Sale,LDP,38349325,0,5,False,False,41,SG,67,8943,2097,227
+55 m²,"4,7 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38347165,0,5,False,False,163,SG,67,8935,0,227
+68 m²,2 tỷ,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Hợp đồng mua bán,Đầy đủ,02/10/2023,01/11/2023,Sale,LDP,37857274,1293,5,False,False,324,SG,67,0,837,227
+90 m²,"16,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38349039,0,5,False,False,41,SG,67,8939,11217,227
+50 m²,"9,5 tỷ",N/A,40 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38348206,0,5,False,False,163,SG,67,8942,366,227
+60 m²,"4,45 tỷ",3 m,3 m,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,38349323,0,5,False,False,41,SG,67,8943,11207,227
+1.800 m²,195 tỷ,N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38302242,0,5,False,True,163,SG,67,8942,366,227
+360 m²,36 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,20/10/2023,30/10/2023,Sale,LDP,38276460,0,5,False,False,163,SG,67,8939,836,227
+176 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38278904,0,5,False,False,163,SG,67,8943,2097,227
+176 m²,25 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,38276413,0,5,False,False,163,SG,67,8942,382,227
+80 m²,"8,7 tỷ",4 m,6 m,4 tầng,N/A,N/A,3 phòng,4 phòng,"Đã có sổ hồng, hoàn công đầy đủ.",Cao cấp.,18/10/2023,28/10/2023,Sale,LDP,38349253,0,5,False,False,41,SG,67,8947,837,227
+"61,6 m²",8 tỷ,5 m,N/A,4 tầng,Đông - Nam,Đông - Nam,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,22/10/2023,01/11/2023,Sale,LDP,38307491,0,5,False,False,41,SG,67,8938,4706,227
+180 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,37469937,0,5,False,False,41,SG,67,8937,650,227
+304 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,38276040,0,5,False,False,163,SG,67,8948,650,227
+273 m²,15 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,20/10/2023,30/10/2023,Sale,LDP,38278864,0,5,False,False,163,SG,67,8940,366,227
+2.700 m²,161 tỷ,N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,38276102,0,5,False,False,163,SG,67,8946,650,227
+96 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38276282,0,5,False,False,163,SG,67,8939,382,227
+100 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,37433210,0,5,False,False,163,SG,67,8939,4710,227
+112 m²,"11,5 tỷ",8 m,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,37980534,0,5,False,False,41,SG,67,8937,2023,227
+100 m²,20 tỷ,N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,37921985,0,5,False,False,163,SG,67,8939,836,227
+135 m²,"12,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,37911812,0,5,False,True,163,SG,67,8949,650,227
+"58,5 m²","4,7 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37592813,0,5,False,False,41,SG,67,8942,2097,227
+"98,9 m²",12 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Có sổ,N/A,21/10/2023,31/10/2023,Sale,LDP,26582742,0,5,False,False,163,SG,67,8937,2023,227
+348 m²,26 tỷ,N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,36481543,0,5,False,False,163,SG,67,8949,836,227
+100 m²,"15,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38349852,0,5,False,False,41,SG,67,8939,382,227
+75 m²,"3,05 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38349790,1825,5,False,False,324,SG,67,8942,382,227
+100 m²,"15,8 tỷ",5 m,12 m,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,10/10/2023,25/10/2023,Sale,LDP,38289687,2409,5,False,False,163,SG,67,8942,382,227
+"93,6 m²","15,2 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,35993229,0,5,False,False,163,SG,67,8936,4706,227
+100 m²,18 tỷ,5 m,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38199125,0,5,False,False,163,SG,67,8939,0,227
+44 m²,"4,65 tỷ","3,3 m",6 m,2 tầng,N/A,N/A,2 phòng,3 phòng,Đã có sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,37537747,0,5,False,False,41,SG,67,8938,4706,227
+75 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,38213629,2944,5,False,False,324,SG,67,8948,650,227
+162 m²,"14,5 tỷ",N/A,N/A,3 tầng,N/A,N/A,5 phòng,4 phòng,Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38349723,0,5,False,False,41,SG,67,8937,2023,227
+30 m²,"3,38 tỷ",N/A,3 m,2 tầng,Tây - Nam,N/A,2 phòng,2 phòng,Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,34322260,0,5,False,False,41,SG,67,8943,2097,227
+63 m²,"6,8 tỷ",3 m,N/A,N/A,Đông,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,30609531,0,5,False,False,163,SG,67,8943,11207,227
+51 m²,"6,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,36766176,0,5,False,False,163,SG,67,8943,2097,227
+17 m²,"1,78 tỷ",N/A,N/A,2 tầng,Đông - Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,36538799,0,5,False,False,41,SG,67,8937,4766,227
+95 m²,"3,75 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,31942255,1109,5,False,False,324,SG,67,8935,4707,227
+38 m²,"3,15 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,37717046,0,5,False,False,41,SG,67,8950,11232,227
+160 m²,"13,6 tỷ","8,5 m",16 m,4 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,33922800,0,5,False,False,41,SG,67,8937,2023,227
+40 m²,"3,58 tỷ",N/A,3 m,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37656406,0,5,False,False,41,SG,67,8950,3788,227
+84 m²,"3,6 tỷ",N/A,N/A,N/A,Nam,Đông,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,29105044,1109,5,False,False,324,SG,67,8935,4707,227
+220 m²,36 tỷ,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,35157756,2409,5,False,False,163,SG,67,8942,382,227
+"88,8 m²",11 tỷ,4 m,8 m,3 tầng,Đông - Nam,N/A,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,15/10/2023,14/11/2023,Sale,LDP,37332557,0,5,False,False,41,SG,67,8943,366,227
+125 m²,"14,5 tỷ",N/A,20 m,N/A,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,36985004,0,5,False,False,163,SG,67,8941,837,227
+520 m²,"28,5 tỷ",N/A,6 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38348006,0,5,False,False,41,SG,67,8949,6940,227
+54 m²,"4,3 tỷ","4,7 m",N/A,3 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,18/10/2023,02/11/2023,Sale,LDP,38348398,0,5,False,False,41,SG,67,8940,366,227
+42 m²,"3,6 tỷ",3 m,5 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,19/10/2023,29/10/2023,Sale,LDP,38275405,0,5,False,False,41,SG,67,8942,366,227
+54 m²,"7,6 tỷ",4 m,6 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,38349249,0,5,False,False,41,SG,67,8940,3631,227
+64 m²,95 triệu/m²,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng riêng,N/A,18/10/2023,28/10/2023,Sale,LDP,38234292,0,5,False,False,283,SG,67,8948,836,227
+100 m²,15 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,37851154,0,5,False,False,163,SG,67,8945,4714,227
+1.000 m²,95 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37100621,0,5,False,False,163,SG,67,8941,837,227
+140 m²,Thỏa thuận,"5,5 m",3 m,2 tầng,N/A,N/A,5 phòng,3 phòng,N/A,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38299442,0,5,False,False,41,SG,67,8943,4713,227
+39 m²,"4,25 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,N/A,N/A,"Đầy đủ nội thất, giường, tủ, nệm, máy lạnh...",18/10/2023,28/10/2023,Sale,LDP,38347014,0,5,False,False,163,SG,67,8935,0,227
+60 m²,"13,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,37987079,0,5,False,False,163,SG,67,8942,366,227
+444 m²,35 tỷ,N/A,N/A,1 tầng,N/A,N/A,1 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,34663239,0,5,False,False,163,SG,67,8940,366,227
+126 m²,38 tỷ,6 m,30 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37625716,1325,5,False,False,325,SG,67,8938,382,227
+200 m²,"13,8 tỷ","6,55 m",N/A,1 tầng,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,35967664,0,5,False,True,163,SG,67,8949,836,227
+100 m²,"8,4 tỷ",7 m,6 m,2 tầng,Tây - Nam,Đông - Nam,4 phòng,4 phòng,Sổ Hồng.,N/A,23/10/2023,07/11/2023,Sale,LDP,38262520,0,5,False,False,41,SG,67,8935,11222,227
+55 m²,"5,9 tỷ",N/A,N/A,5 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38347929,0,5,False,False,41,SG,67,8943,1998,227
+"52,4 m²",Thỏa thuận,"4,4 m",6 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,18/10/2023,28/10/2023,Sale,LDP,36910551,0,5,False,False,41,SG,67,8940,11277,227
+90 m²,16 tỷ,5 m,12 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Full nội thất cao cấp,18/10/2023,28/10/2023,Sale,LDP,38348828,0,5,False,False,163,SG,67,8939,4710,227
+86 m²,"15,99 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,38201497,0,5,False,True,163,SG,67,8942,382,227
+"75,6 m²","9,5 tỷ","4,2 m",N/A,5 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,N/A,23/10/2023,02/11/2023,Sale,LDP,38303495,0,5,False,False,163,SG,67,8947,11273,227
+83 m²,"3,9 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,37919725,2409,5,False,True,324,SG,67,8942,382,227
+75 m²,"3,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,37919752,2409,5,False,True,324,SG,67,8942,382,227
+100 m²,27 tỷ,5 m,30 m,5 tầng,N/A,N/A,8 phòng,5 phòng,Sổ hồng chính chủ,N/A,14/10/2023,24/10/2023,Sale,LDP,30018490,2409,5,False,False,325,SG,67,8942,11219,227
+80 m²,"2,87 tỷ",N/A,N/A,N/A,N/A,Đông - Nam,2 phòng,2 phòng,Đã có sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,36798098,1245,5,False,True,324,SG,67,8937,6938,227
+85 m²,"3,35 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Đã có sổ hồng,Nội thất cơ bản,13/10/2023,23/10/2023,Sale,LDP,36606798,1825,5,False,True,324,SG,67,8942,382,227
+75 m²,"3,99 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Đã có sổ hồng,Full nội thất cao cấp,18/10/2023,28/10/2023,Sale,LDP,36630175,2256,5,False,False,324,SG,67,8934,433,227
+122 m²,179 triệu/m²,N/A,N/A,1 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38284959,0,5,False,False,163,SG,67,8942,382,227
+100 m²,"12,5 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Đã có sổ hồng.,Nhà trống.,13/10/2023,23/10/2023,Sale,LDP,36982401,0,5,False,True,41,SG,67,8937,2023,227
+65 m²,"2,4 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Đã có sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38136178,1303,5,False,True,324,SG,67,8949,836,227
+110 m²,"3,2 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Đã có sổ hồng.,N/A,13/10/2023,23/10/2023,Sale,LDP,38063839,478,5,False,True,324,SG,67,8948,650,227
+73 m²,"2,3 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Đã có sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38135853,478,5,False,True,324,SG,67,8948,3788,227
+112 m²,"3,8 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Đã có sổ hồng,Nội thất cơ bản.,13/10/2023,23/10/2023,Sale,LDP,36682821,1245,5,False,True,324,SG,67,8937,6938,227
+75 m²,"3,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38333158,2409,5,False,False,324,SG,67,8942,382,227
+100 m²,17 tỷ,5 m,N/A,4 tầng,N/A,N/A,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,20/10/2023,30/10/2023,Sale,LDP,35331621,1325,5,False,False,325,SG,67,8938,382,227
+220 m²,35 tỷ,N/A,N/A,3 tầng,N/A,N/A,6 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,06/10/2023,21/10/2023,Sale,LDP,35448201,2409,5,False,True,325,SG,67,8942,382,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,Tây,N/A,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,22/10/2023,01/11/2023,Sale,LDP,35333235,2409,5,False,False,325,SG,67,8942,382,227
+320 m²,"22,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38348574,0,5,False,False,41,SG,67,8949,6940,227
+65 m²,"2,1 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Đã có sổ hồng.,Nhà trống.,13/10/2023,23/10/2023,Sale,LDP,36982522,1303,5,False,True,324,SG,67,8949,836,227
+220 m²,35 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37812625,2409,5,False,False,325,SG,67,8942,382,227
+100 m²,"15,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,24/10/2023,Sale,LDP,38163576,0,5,False,False,325,SG,67,8939,4710,227
+100 m²,"16,8 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,38187772,2409,5,False,False,325,SG,67,8942,382,227
+64 m²,6 tỷ,4 m,20 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,37727336,0,5,False,False,283,SG,67,8948,836,227
+"49,6 m²","4,25 tỷ",4 m,"1,5 m",1 tầng,Nam,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,18/10/2023,28/10/2023,Sale,LDP,38347737,0,5,False,False,41,SG,67,8945,727,227
+52 m²,"5,6 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,16/11/2023,Sale,LDP,38342404,0,5,False,False,41,SG,67,8938,2023,227
+"66,3 m²","6,2 tỷ",N/A,6 m,2 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,30403886,0,5,False,False,41,SG,67,8937,836,227
+90 m²,"16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38347778,0,5,False,False,163,SG,67,8939,0,227
+50 m²,"6,8 tỷ",N/A,6 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Đã có sổ,N/A,17/10/2023,27/10/2023,Sale,LDP,37198987,0,5,False,False,41,SG,67,8941,13732,227
+285 m²,34 tỷ,N/A,N/A,1 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38337997,0,5,False,False,163,SG,67,8935,338,227
+80 m²,"5,4 tỷ",5 m,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,17/10/2023,16/11/2023,Sale,LDP,38339546,0,5,False,False,41,SG,67,8938,4706,227
+53 m²,"1,55 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Hợp đồng mua bán,N/A,16/10/2023,15/11/2023,Sale,LDP,38117297,1293,5,False,False,324,SG,67,8947,837,227
+90 m²,"9,55 tỷ",N/A,N/A,2 tầng,N/A,N/A,7 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất.,18/10/2023,17/11/2023,Sale,LDP,37804207,0,5,False,False,163,SG,67,8948,2097,227
+60 m²,6 tỷ,4 m,9 m,2 tầng,Nam,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,38347477,0,5,False,False,41,SG,67,8935,4707,227
+167 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,21/10/2023,Sale,LDP,38196183,0,5,False,True,163,SG,67,8937,2023,227
+90 m²,7 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,36928667,0,5,False,False,41,SG,67,8949,6940,227
+35 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38325094,0,5,False,False,41,SG,67,8934,560,227
+72 m²,"5,85 tỷ","4,5 m",5 m,3 tầng,N/A,N/A,3 phòng,4 phòng,Đã có sổ hồng.,Đầy đủ.,18/10/2023,28/10/2023,Sale,LDP,38345152,0,5,False,False,41,SG,67,8949,836,227
+72 m²,"8,5 tỷ",N/A,7 m,2 tầng,N/A,N/A,2 phòng,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37959217,0,5,False,False,41,SG,67,8939,650,227
+63 m²,"7,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38162892,0,5,False,False,163,SG,67,8937,0,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,6 phòng,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38113896,2409,5,False,False,575,SG,67,8942,382,227
+"636,4 m²",149 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38347071,0,5,False,False,163,SG,67,8949,836,227
+"39,9 m²","7,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38314158,0,5,False,True,41,SG,67,8947,11273,227
+93 m²,"4,95 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38316532,2409,5,False,True,324,SG,67,8942,382,227
+99 m²,"5,2 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38339300,2409,5,False,False,324,SG,67,8942,382,227
+"40,2 m²","3,9 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,21/10/2023,31/10/2023,Sale,LDP,38292074,0,5,False,False,41,SG,67,8949,6940,227
+56 m²,Thỏa thuận,4 m,N/A,4 tầng,Đông - Nam,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,38153075,0,5,False,False,41,SG,67,8945,4761,227
+"261,5 m²",21 tỷ,N/A,N/A,N/A,Đông - Nam,N/A,3 phòng,3 phòng,Đã có sổ.,N/A,18/10/2023,17/11/2023,Sale,LDP,38352029,0,5,False,False,41,SG,67,8940,0,227
+54 m²,"3,85 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,38306620,0,5,False,True,41,SG,67,8945,727,227
+54 m²,"1,6 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,N/A,Đang chờ sổ,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38160960,1293,5,False,False,324,SG,67,8947,837,227
+50 m²,"5,5 tỷ","5,3 m",6 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38346184,0,5,False,False,41,SG,67,8947,837,227
+75 m²,"8,35 tỷ",4 m,5 m,5 tầng,N/A,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Nội thất cao cấp,18/10/2023,28/10/2023,Sale,LDP,38138199,0,5,False,False,41,SG,67,8940,366,227
+100 m²,17 tỷ,N/A,N/A,4 tầng,N/A,N/A,5 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,38198860,1325,5,False,False,325,SG,67,8938,382,227
+200 m²,45 tỷ,N/A,N/A,4 tầng,Bắc,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,36229189,2409,5,False,False,325,SG,67,8942,382,227
+100 m²,"26,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,3 phòng,N/A,N/A,18/10/2023,02/11/2023,Sale,LDP,37615097,2409,5,False,False,163,SG,67,8942,382,227
+75 m²,"9,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37914216,0,5,False,False,163,SG,67,8945,4714,227
+"58,2 m²","8,9 tỷ",8 m,12 m,4 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38347999,0,5,False,False,41,SG,67,8947,727,227
+100 m²,17 tỷ,N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,36422745,2409,5,False,False,163,SG,67,8942,382,227
+595 m²,125 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,02/11/2023,Sale,LDP,38014272,0,5,False,False,283,SG,67,8934,433,227
+25 m²,"2,85 tỷ","2,8 m","2,5 m",2 tầng,Đông,Đông,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,36449578,0,5,False,False,41,SG,67,8939,11192,227
+52 m²,"8,28 tỷ",4 m,6 m,4 tầng,Tây - Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Cao cấp.,08/10/2023,23/10/2023,Sale,LDP,38273775,0,5,True,True,41,SG,67,8945,366,227
+55 m²,"9,28 tỷ",N/A,6 m,4 tầng,Đông - Bắc,Đông - Bắc,4 phòng,4 phòng,N/A,N/A,22/10/2023,06/11/2023,Sale,LDP,38261368,0,5,True,False,41,SG,67,8936,4706,227
+48 m²,"6,2 tỷ",4 m,5 m,3 tầng,Đông - Bắc,N/A,3 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38346248,0,5,False,False,41,SG,67,8945,232,227
+53 m²,"7,6 tỷ",N/A,6 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,22/10/2023,06/11/2023,Sale,LDP,38244649,0,5,True,False,41,SG,67,8947,837,227
+77 m²,"3,29 tỷ",5 m,8 m,4 tầng,N/A,N/A,5 phòng,4 phòng,Sổ đỏ.,N/A,18/10/2023,28/10/2023,Sale,LDP,38181680,0,5,False,False,41,SG,67,8935,4707,227
+56 m²,"5,8 tỷ",N/A,N/A,1 tầng,N/A,N/A,2 phòng,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38346944,0,5,False,False,41,SG,67,8936,0,227
+170 m²,"14,8 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,37381272,0,5,False,False,41,SG,67,8937,2023,227
+450 m²,42 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,08/10/2023,23/10/2023,Sale,LDP,37590531,0,5,False,True,163,SG,67,8947,837,227
+53 m²,"5,5 tỷ","5,3 m",7 m,2 tầng,Tây - Nam,Tây - Nam,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,38345942,0,5,False,False,41,SG,67,8947,837,227
+"72,5 m²","3,65 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,37190770,2409,5,False,False,324,SG,67,8942,382,227
+75 m²,"3,6 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,09/10/2023,08/11/2023,Sale,LDP,32901734,2409,5,False,False,324,SG,67,8942,382,227
+223 m²,14 tỷ,10 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,07/10/2023,22/10/2023,Sale,LDP,36344696,0,5,False,True,41,SG,67,8938,2023,227
+55 m²,"4,65 tỷ",5 m,3 m,3 tầng,N/A,N/A,3 phòng,4 phòng,N/A,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38344932,0,5,False,False,41,SG,67,8935,2474,227
+80 m²,9 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,37496838,0,5,False,True,41,SG,67,8939,382,227
+82 m²,"8,7 tỷ",N/A,N/A,1 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,10/10/2023,20/10/2023,Sale,LDP,38283779,0,5,False,True,41,SG,67,8937,3917,227
+66 m²,"6,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,07/10/2023,22/10/2023,Sale,LDP,38089318,0,5,False,True,41,SG,67,8940,366,227
+100 m²,12 tỷ,4 m,16 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38347043,0,5,False,False,163,SG,67,8949,836,227
+90 m²,"7,3 tỷ",5 m,10 m,3 tầng,Tây - Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38346857,0,5,False,False,41,SG,67,8948,650,227
+56 m²,"1,95 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,31859782,2886,5,False,False,324,SG,67,8937,6938,227
+32 m²,"3,3 tỷ",4 m,4 m,N/A,Tây - Nam,N/A,3 phòng,2 phòng,N/A,N/A,05/10/2023,04/11/2023,Sale,LDP,38250416,0,5,False,False,41,SG,67,8950,11232,227
+65 m²,"1,57 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,38285868,0,5,False,False,41,SG,67,8938,4706,227
+80 m²,12 tỷ,N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38260985,0,5,False,False,163,SG,67,8935,4705,227
+150 m²,23 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,38224597,0,5,False,False,163,SG,67,8943,2097,227
+67 m²,"10,7 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38276768,0,5,False,False,41,SG,67,8942,366,227
+100 m²,"16,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38293866,2409,5,False,False,325,SG,67,8942,382,227
+90 m²,"12,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38336952,0,5,False,False,163,SG,67,8939,650,227
+36 m²,"3,3 tỷ",N/A,4 m,2 tầng,Đông - Bắc,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38225107,0,5,False,False,41,SG,67,8950,650,227
+49 m²,"1,4 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,1 phòng,Hợp đồng mua bán,Đầy đủ,02/10/2023,01/11/2023,Sale,LDP,38015750,1293,5,False,False,324,SG,67,8947,837,227
+114 m²,17 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38337265,0,5,False,False,163,SG,67,8942,6940,227
+"28,8 m²","2,88 tỷ","3,6 m",2 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,28/10/2023,Sale,LDP,38346648,0,5,False,False,41,SG,67,8943,2097,227
+"57,3 m²","12,9 tỷ",N/A,10 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,02/11/2023,Sale,LDP,38346594,0,5,True,False,41,SG,67,8940,366,227
+"132,6 m²",22 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05/10/2023,04/11/2023,Sale,LDP,37697649,0,5,False,False,163,SG,67,8945,366,227
+112 m²,8 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38343785,0,5,False,False,41,SG,67,8943,4713,227
+58 m²,"6,7 tỷ",N/A,N/A,4 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,36962049,0,5,False,False,41,SG,67,8938,2023,227
+73 m²,"8,7 tỷ",N/A,20 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,21/10/2023,Sale,LDP,32147725,0,5,False,True,163,SG,67,8938,11221,227
+72 m²,"6,79 tỷ",5 m,6 m,3 tầng,N/A,N/A,3 phòng,2 phòng,N/A,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,36028582,0,5,False,False,41,SG,67,8938,2023,227
+110 m²,"9,5 tỷ",N/A,12 m,4 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38263203,0,5,False,False,41,SG,67,8949,836,227
+72 m²,"8,3 tỷ",N/A,8 m,1 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38229808,0,5,False,True,41,SG,67,8949,4788,227
+80 m²,"10,4 tỷ",N/A,22 m,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ.,Full nội thất,11/10/2023,21/10/2023,Sale,LDP,31110856,0,5,False,True,163,SG,67,8935,4706,227
+70 m²,"8,5 tỷ",N/A,N/A,1 tầng,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất,16/10/2023,26/10/2023,Sale,LDP,37367386,0,5,False,False,41,SG,67,8939,650,227
+64 m²,"4,55 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,05/10/2023,20/10/2023,Sale,LDP,38167984,0,5,False,True,41,SG,67,8947,366,227
+68 m²,"6,3 tỷ",N/A,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,26/10/2023,Sale,LDP,37962980,0,5,False,False,41,SG,67,8941,4713,227
+64 m²,"8,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,06/10/2023,05/11/2023,Sale,LDP,38047059,0,5,False,False,41,SG,67,8935,4706,227
+85 m²,"8,8 tỷ",N/A,7 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Không có nội thất.,16/10/2023,26/10/2023,Sale,LDP,34149036,0,5,False,False,41,SG,67,8939,3917,227
+58 m²,"6,4 tỷ",N/A,6 m,4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37911799,0,5,False,False,41,SG,67,8937,650,227
+154 m²,"14,5 tỷ",N/A,8 m,4 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,38338164,0,5,False,False,41,SG,67,8949,4788,227
+100 m²,"8,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,28/10/2023,Sale,LDP,38047553,0,5,False,False,41,SG,67,8942,366,227
+100 m²,14 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38242174,0,5,False,False,163,SG,67,8939,4709,227
+"154,1 m²","25,4 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37650433,0,5,False,False,163,SG,67,8939,382,227
+68 m²,Thỏa thuận,5 m,5 m,2 tầng,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,36153456,0,5,False,False,41,SG,67,8943,366,227
+"75,6 m²",11 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,36206698,0,5,False,False,163,SG,67,8942,382,227
+80 m²,"9,9 tỷ",N/A,6 m,4 tầng,N/A,N/A,5 phòng,6 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,35070655,0,5,False,False,41,SG,67,8947,366,227
+58 m²,"2,15 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản,18/10/2023,28/10/2023,Sale,LDP,37948356,478,5,False,False,324,SG,67,8948,650,227
+110 m²,"9,3 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,04/10/2023,03/11/2023,Sale,LDP,37404535,0,5,False,False,41,SG,67,8949,836,227
+160 m²,"19,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38311163,0,5,False,True,163,SG,67,8935,338,227
+340 m²,59 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,37370354,0,5,False,False,163,SG,67,8943,2097,227
+"48,8 m²","4,98 tỷ","3,5 m","3,5 m",2 tầng,Đông - Nam,Đông - Nam,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,19/10/2023,29/10/2023,Sale,LDP,38133545,0,5,False,False,41,SG,67,8943,13732,227
+66 m²,"6,9 tỷ",4 m,5 m,4 tầng,Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,16/10/2023,26/10/2023,Sale,LDP,38331029,0,5,False,False,41,SG,67,8945,727,227
+80 m²,"8,8 tỷ","4,2 m",6 m,5 tầng,Bắc,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cao cấp,09/10/2023,19/10/2023,Sale,LDP,38279874,0,5,False,True,41,SG,67,8940,13732,227
+"50,8 m²","4,25 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,09/10/2023,19/10/2023,Sale,LDP,38281717,0,5,False,True,41,SG,67,8943,13732,227
+40 m²,"5,7 tỷ",4 m,4 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cao cấp,18/10/2023,02/11/2023,Sale,LDP,37754722,0,5,False,False,41,SG,67,8947,11273,227
+"157,5 m²",21 tỷ,"7,5 m",N/A,N/A,N/A,N/A,1 phòng,1 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38019821,0,5,False,False,163,SG,67,8943,2097,227
+220 m²,"29,5 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36741363,0,5,False,False,163,SG,67,8949,650,227
+44 m²,"4,43 tỷ",4 m,"2,5 m",3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cao cấp,18/10/2023,28/10/2023,Sale,LDP,38345340,0,5,False,False,41,SG,67,8949,6940,227
+30 m²,"2,8 tỷ",N/A,5 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,17/11/2023,Sale,LDP,38344424,0,5,False,False,41,SG,67,8950,2097,227
+42 m²,"4,9 tỷ",4 m,3 m,4 tầng,Tây - Nam,Tây - Nam,3 phòng,3 phòng,Sổ cất két,Cao cấp,18/10/2023,17/11/2023,Sale,LDP,38344413,0,5,False,False,41,SG,67,8945,727,227
+84 m²,"15,2 tỷ",N/A,6 m,3 tầng,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345687,0,5,False,False,41,SG,67,8934,1530,227
+50 m²,7 tỷ,N/A,12 m,2 tầng,Nam,Nam,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,38141379,0,5,False,False,41,SG,67,8949,836,227
+"52,5 m²",Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38338478,0,5,False,False,163,SG,67,8943,2097,227
+128 m²,"14,7 tỷ","4,2 m",N/A,2 tầng,Bắc,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,17/10/2023,16/11/2023,Sale,LDP,35681949,0,5,False,False,163,SG,67,8941,837,227
+64 m²,Thỏa thuận,N/A,5 m,2 tầng,Đông - Nam,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,37852044,0,5,False,False,41,SG,67,8936,4784,227
+84 m²,12 tỷ,4 m,40 m,3 tầng,N/A,N/A,4 phòng,3 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38345282,0,5,False,False,163,SG,67,8949,836,227
+251 m²,"25,85 tỷ",12 m,10 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38331085,0,5,False,False,41,SG,67,8938,2023,227
+45 m²,"3,75 tỷ","4,5 m",N/A,2 tầng,N/A,N/A,2 phòng,N/A,Sổ hồng chính chủ,Nội thất đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345620,0,5,False,False,41,SG,67,8942,366,227
+903 m²,63 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,18/10/2023,28/10/2023,Sale,LDP,38266268,0,5,False,False,163,SG,67,8946,650,227
+"23,5 m²","2,75 tỷ",3 m,"3,5 m",4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,11/10/2023,21/10/2023,Sale,LDP,38292237,0,5,False,True,41,SG,67,8935,0,227
+31 m²,"3,05 tỷ",5 m,4 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,11/10/2023,21/10/2023,Sale,LDP,38176654,0,5,False,True,41,SG,67,8937,650,227
+105 m²,"15,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345614,0,5,False,False,325,SG,67,8939,3917,227
+78 m²,Thỏa thuận,6 m,6 m,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345364,0,5,False,False,41,SG,67,8939,382,227
+75 m²,Thỏa thuận,N/A,5 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38332012,0,5,False,False,41,SG,67,8947,727,227
+56 m²,5 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,21/10/2023,31/10/2023,Sale,LDP,38033574,0,5,False,False,41,SG,67,8947,727,227
+48 m²,5 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38339193,0,5,False,False,41,SG,67,8945,0,227
+68 m²,"2,15 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38334900,2944,5,False,False,324,SG,67,8948,650,227
+75 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,21/10/2023,31/10/2023,Sale,LDP,38290631,2409,5,False,False,324,SG,67,8942,382,227
+27 m²,"2,95 tỷ",N/A,4 m,3 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,12/10/2023,22/10/2023,Sale,LDP,38219541,0,5,False,True,41,SG,67,8945,1808,227
+56 m²,"6,79 tỷ","4,5 m",6 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345291,0,5,False,False,41,SG,67,8940,366,227
+92 m²,8 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38279654,0,5,False,False,283,SG,67,8934,1530,227
+110 m²,22 tỷ,N/A,N/A,N/A,Nam,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38161054,0,5,False,False,163,SG,67,8942,382,227
+95 m²,"15,7 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38290509,0,5,False,False,163,SG,67,8939,382,227
+60 m²,"8,5 tỷ","5,5 m",8 m,5 tầng,N/A,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38324715,0,5,False,False,41,SG,67,8947,11273,227
+60 m²,Thỏa thuận,5 m,7 m,1 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38344399,0,5,False,False,41,SG,67,8936,4706,227
+67 m²,Thỏa thuận,5 m,12 m,2 tầng,Đông - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,35022618,0,5,False,False,41,SG,67,8935,4705,227
+224 m²,19 tỷ,8 m,N/A,1 tầng,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,13/10/2023,23/10/2023,Sale,LDP,37348752,0,5,False,True,163,SG,67,8938,4773,227
+70 m²,"12,5 tỷ",4 m,9 m,3 tầng,Tây - Bắc,Tây - Bắc,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,37609799,0,5,False,False,41,SG,67,8938,382,227
+68 m²,"7,8 tỷ",10 m,10 m,2 tầng,Đông - Nam,Đông - Nam,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38329296,0,5,False,False,41,SG,67,8938,2023,227
+220 m²,35 tỷ,11 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37717912,2409,5,False,False,325,SG,67,8942,382,227
+40 m²,"4,25 tỷ",4 m,"2,5 m",2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345252,0,5,False,False,41,SG,67,8936,338,227
+180 m²,"15,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,36494483,0,5,False,False,41,SG,67,8941,4510,227
+154 m²,9 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,36494767,0,5,False,False,41,SG,67,8937,650,227
+80 m²,14 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,37830548,0,5,False,False,163,SG,67,8939,4709,227
+410 m²,"21,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38261833,0,5,False,False,283,SG,67,8949,6940,227
+100 m²,"16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nội thất cao cấp.,22/10/2023,01/11/2023,Sale,LDP,36984549,2409,5,False,False,163,SG,67,8942,382,227
+260 m²,30 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,37854946,0,5,False,False,163,SG,67,8949,650,227
+77 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,17/10/2023,27/10/2023,Sale,LDP,38268770,0,5,False,False,41,SG,67,8950,650,227
+104 m²,"13,7 tỷ",N/A,N/A,N/A,N/A,N/A,6 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38169525,0,5,False,False,325,SG,67,8945,232,227
+78 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,10/10/2023,20/10/2023,Sale,LDP,38289196,2409,5,False,True,324,SG,67,8942,382,227
+37 m²,"4,07 tỷ","4,1 m",3 m,2 tầng,N/A,N/A,N/A,N/A,N/A,SĐCC,17/10/2023,27/10/2023,Sale,LDP,38343797,0,5,False,False,41,SG,67,8938,4706,227
+60 m²,Thỏa thuận,N/A,5 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,36505719,0,5,False,False,41,SG,67,8943,4713,227
+"366,5 m²",55 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38342200,0,5,False,False,163,SG,67,8934,1530,227
+60 m²,Thỏa thuận,5 m,5 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,36505701,0,5,False,False,41,SG,67,8948,650,227
+60 m²,Thỏa thuận,N/A,5 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,36505691,0,5,False,False,41,SG,67,8945,727,227
+45 m²,"4,8 tỷ",N/A,5 m,4 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38343556,0,5,False,False,41,SG,67,8947,837,227
+56 m²,"6,36 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38330050,0,5,False,False,41,SG,67,8946,2001,227
+68 m²,"5,9 tỷ",5 m,3 m,5 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38263028,0,5,False,False,41,SG,67,8950,650,227
+90 m²,"8,2 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38343588,0,5,False,False,41,SG,67,8937,650,227
+220 m²,35 tỷ,16 m,16 m,4 tầng,Tây,Tây,8 phòng,N/A,Sổ đỏ/ Sổ hồng,Cơ bản,20/10/2023,30/10/2023,Sale,LDP,38129615,2409,5,False,False,325,SG,67,8942,382,227
+80 m²,"10,4 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,5 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,37632334,0,5,False,False,41,SG,67,8948,650,227
+"67,2 m²","5,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,12/10/2023,27/10/2023,Sale,LDP,38304319,0,5,False,False,283,SG,67,8948,0,227
+"45,6 m²","6,38 tỷ","3,8 m",6 m,3 tầng,Đông - Nam,Đông - Nam,3 phòng,4 phòng,Sổ hồng,Full option dọn vào ở ngay.,17/10/2023,27/10/2023,Sale,LDP,37957683,0,5,False,False,41,SG,67,8942,366,227
+45 m²,"1,5 tỷ",4 m,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,38202564,0,5,False,False,41,SG,67,8935,4705,227
+60 m²,"7,95 tỷ",4 m,8 m,5 tầng,N/A,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Cao cấp,18/10/2023,28/10/2023,Sale,LDP,38345272,0,5,False,False,41,SG,67,8941,837,227
+20 m²,"2,35 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38287622,0,5,False,True,41,SG,67,8943,11205,227
+91 m²,"6,9 tỷ","4,2 m",6 m,3 tầng,N/A,N/A,5 phòng,3 phòng,"Pháp lý chuẩn, hoàn công đủ, gấp bán",Xịn sò,18/10/2023,28/10/2023,Sale,LDP,38345270,0,5,False,False,41,SG,67,8945,4761,227
+100 m²,"16,8 tỷ",N/A,N/A,4 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,21/10/2023,31/10/2023,Sale,LDP,33833547,1325,5,False,False,325,SG,67,8938,382,227
+"88,4 m²",14 tỷ,8 m,8 m,2 tầng,Tây,Tây,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,27/09/2023,27/10/2023,Sale,LDP,37981302,0,5,False,False,163,SG,67,8935,326,227
+121 m²,38 tỷ,N/A,N/A,5 tầng,N/A,N/A,16 phòng,12 phòng,Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,34961975,1325,5,False,False,325,SG,67,8938,382,227
+100 m²,"5,2 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38343255,2409,5,False,False,324,SG,67,8942,382,227
+56 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,13/10/2023,23/10/2023,Sale,LDP,37429844,0,5,False,True,324,SG,67,8947,727,227
+60 m²,Thỏa thuận,"4,5 m","4,5 m",2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,14/10/2023,24/10/2023,Sale,LDP,36573099,0,5,False,False,41,SG,67,8938,382,227
+100 m²,22 tỷ,N/A,N/A,5 tầng,N/A,N/A,8 phòng,8 phòng,N/A,N/A,21/10/2023,31/10/2023,Sale,LDP,34983161,2409,5,False,False,325,SG,67,8942,382,227
+52 m²,"6,8 tỷ","5,2 m",6 m,5 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,21/10/2023,05/11/2023,Sale,LDP,38116187,0,5,False,False,41,SG,67,8943,366,227
+107 m²,"5,45 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,38343677,2409,5,False,False,324,SG,67,8942,382,227
+54 m²,"1,45 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,1 phòng,Hợp đồng mua bán,Đầy đủ,16/10/2023,15/11/2023,Sale,LDP,38117275,1293,5,False,False,324,SG,67,8947,837,227
+58 m²,Thỏa thuận,N/A,7 m,4 tầng,Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,18/10/2023,28/10/2023,Sale,LDP,38345792,0,5,False,False,41,SG,67,8934,650,227
+75 m²,7 tỷ,N/A,12 m,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,18/10/2023,28/10/2023,Sale,LDP,32623129,0,5,False,False,41,SG,67,8948,650,227
+105 m²,7 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37724782,0,5,False,False,41,SG,67,8938,2023,227
+60 m²,Thỏa thuận,5 m,60 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ hồng riêng,Cơ bản đầy đủ,18/10/2023,28/10/2023,Sale,LDP,33542944,0,5,False,False,41,SG,67,8949,650,227
+100 m²,"16,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,6 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,34487107,2409,5,False,False,325,SG,67,8942,382,227
+85 m²,"10,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,N/A,Sổ đỏ/ Sổ hồng,Tặng lại toàn bộ nội thất cao cấp.,17/10/2023,27/10/2023,Sale,LDP,28493670,0,5,False,False,163,SG,67,8943,2097,227
+"73,9 m²","10,5 tỷ",N/A,10 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,18/10/2023,02/11/2023,Sale,LDP,38345851,0,5,False,False,41,SG,67,8941,13732,227
+60 m²,"5,9 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,20/10/2023,30/10/2023,Sale,LDP,38282686,0,5,False,False,41,SG,67,8938,382,227
+100 m²,16 tỷ,5 m,N/A,4 tầng,N/A,N/A,5 phòng,4 phòng,Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,35192755,1325,5,False,False,325,SG,67,8938,382,227
+65 m²,"5,2 tỷ","4,2 m",7 m,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,30/10/2023,Sale,LDP,38197118,0,5,False,False,41,SG,67,8942,2097,227
+68 m²,"1,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37920779,1293,5,False,False,324,SG,67,8947,837,227
+39 m²,Thỏa thuận,N/A,N/A,5 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,38285166,0,5,False,True,41,SG,67,8935,0,227
+160 m²,"16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38342401,0,5,False,False,41,SG,67,8937,650,227
+120 m²,"11,9 tỷ",N/A,6 m,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37212345,0,5,False,False,41,SG,67,8937,2023,227
+"78,4 m²","10,5 tỷ",15 m,15 m,4 tầng,Đông - Bắc,Đông - Bắc,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,26/09/2023,26/10/2023,Sale,LDP,38185078,0,5,True,False,41,SG,67,8947,837,227
+"65,4 m²","5,2 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,13/11/2023,Sale,LDP,38318767,0,5,False,False,41,SG,67,8949,650,227
+48 m²,"5,2 tỷ",4 m,5 m,4 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,17/10/2023,27/10/2023,Sale,LDP,38342948,0,5,False,False,41,SG,67,8945,727,227
+"76,8 m²","8,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất.,17/10/2023,01/11/2023,Sale,LDP,38243721,0,5,False,False,41,SG,67,8949,836,227
+189 m²,"15,6 tỷ",N/A,N/A,4 tầng,N/A,N/A,20 phòng,22 phòng,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,37591711,0,5,False,False,41,SG,67,8950,2097,227
+54 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,4 phòng,2 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38340615,0,5,False,False,41,SG,67,8937,650,227
+160 m²,14 tỷ,N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37919967,0,5,False,True,41,SG,67,8949,836,227
+91 m²,"6,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,16/11/2023,Sale,LDP,38337499,0,5,False,False,41,SG,67,8945,4761,227
+106 m²,"7,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,6 phòng,6 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38231224,0,5,False,False,41,SG,67,8949,836,227
+71 m²,8 tỷ,4 m,10 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,10/10/2023,20/10/2023,Sale,LDP,38100499,0,5,False,True,163,SG,67,8938,4773,227
+42 m²,"5,35 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,Đã có sổ,Cơ bản.,11/10/2023,21/10/2023,Sale,LDP,38296744,0,5,False,True,41,SG,67,8943,1990,227
+101 m²,"14,5 tỷ","5,4 m",N/A,1 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,34791438,0,5,False,False,163,SG,67,8949,650,227
+"49,5 m²","5,4 tỷ",45 m,5 m,4 tầng,Tây - Bắc,Tây - Bắc,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38342157,0,5,False,False,41,SG,67,8946,650,227
+70 m²,"1,95 tỷ",N/A,N/A,N/A,Tây,Đông,2 phòng,1 phòng,Đang chờ sổ.,N/A,17/10/2023,27/10/2023,Sale,LDP,38342283,1293,5,False,False,324,SG,67,8947,837,227
+75 m²,"7,7 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,16/10/2023,26/10/2023,Sale,LDP,37934516,0,5,False,False,41,SG,67,8938,2023,227
+63 m²,"4,79 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38341348,0,5,False,False,41,SG,67,8948,650,227
+60 m²,"8,3 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,32006990,0,5,False,False,163,SG,67,8935,4707,227
+"37,2 m²","5,2 tỷ",6 m,6 m,4 tầng,Tây - Bắc,Tây - Bắc,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38341768,0,5,False,False,41,SG,67,8945,727,227
+45 m²,"4,6 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37086606,0,5,False,False,41,SG,67,8943,2841,227
+"112,2 m²","3,9 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38072348,1245,5,False,False,324,SG,67,8937,6938,227
+64 m²,"7,8 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,38161793,0,5,False,False,41,SG,67,8947,650,227
+"75,6 m²",10 tỷ,N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Có sổ chính chủ.,Cơ bản.,14/10/2023,24/10/2023,Sale,LDP,38240637,0,5,False,False,41,SG,67,8942,836,227
+72 m²,"7,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38178835,0,5,False,False,41,SG,67,8942,366,227
+133 m²,"19,9 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37558687,0,5,False,False,163,SG,67,8947,837,227
+92 m²,"8,2 tỷ","6,2 m",5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,34650376,0,5,False,False,41,SG,67,8935,4705,227
+900 m²,120 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38341601,0,5,False,False,163,SG,67,8935,4706,227
+68 m²,"1,86 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,38282704,2944,5,False,False,324,SG,67,8948,2023,227
+90 m²,"8,7 tỷ",5 m,12 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản,10/10/2023,20/10/2023,Sale,LDP,38136854,0,5,False,True,41,SG,67,8937,2023,227
+65 m²,11 tỷ,"4,2 m",12 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38344277,0,5,False,False,41,SG,67,8943,4713,227
+70 m²,"1,75 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38322302,3126,5,False,False,324,SG,67,8934,560,227
+73 m²,"2,18 tỷ",N/A,N/A,N/A,Tây - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,38208279,1109,5,False,False,324,SG,67,8935,4707,227
+110 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,37889368,0,5,False,False,163,SG,67,8949,650,227
+"54,6 m²",Thỏa thuận,4 m,N/A,2 tầng,Đông - Nam,Đông - Nam,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38344171,0,5,False,False,41,SG,67,8946,11206,227
+60 m²,"1,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Hợp đồng mua bán.,N/A,17/10/2023,27/10/2023,Sale,LDP,37874543,1293,5,False,False,324,SG,67,8947,837,227
+105 m²,"14,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38337170,0,5,False,False,163,SG,67,8941,4713,227
+136 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37958951,0,5,False,False,163,SG,67,8943,2097,227
+77 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Hợp đồng mua bán,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,37675919,2409,5,False,True,324,SG,67,8942,382,227
+56 m²,"5,17 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,N/A,Sổ hồng chính chủ,Nội thất đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38337821,0,5,False,False,41,SG,67,8950,6940,227
+75 m²,"9,99 tỷ",5 m,12 m,4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Nội Thất Cao Cấp,17/10/2023,27/10/2023,Sale,LDP,38335070,0,5,False,False,163,SG,67,8945,232,227
+56 m²,"5,2 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38338813,0,5,False,False,41,SG,67,8943,2097,227
+350 m²,"41,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,38221503,0,5,False,True,163,SG,67,8942,366,227
+"69,6 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,10/10/2023,20/10/2023,Sale,LDP,37916520,2409,5,False,True,324,SG,67,8942,382,227
+75 m²,"2,75 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,10/10/2023,20/10/2023,Sale,LDP,38212685,2409,5,False,True,324,SG,67,8942,382,227
+260 m²,"28,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11/10/2023,26/10/2023,Sale,LDP,38295792,0,5,False,False,163,SG,67,8940,13732,227
+223 m²,"19,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21/10/2023,05/11/2023,Sale,LDP,38152126,0,5,False,False,163,SG,67,8937,11237,227
+98 m²,11 tỷ,N/A,20 m,5 tầng,Tây - Bắc,N/A,8 phòng,9 phòng,Sổ hồng chính chủ.,N/A,17/10/2023,27/10/2023,Sale,LDP,34709923,0,5,False,False,163,SG,67,8941,837,227
+48 m²,"6,1 tỷ",N/A,5 m,4 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38341256,0,5,False,False,41,SG,67,8947,2908,227
+77 m²,"8,8 tỷ",N/A,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,10/10/2023,09/11/2023,Sale,LDP,38284038,0,5,False,False,41,SG,67,8940,13732,227
+"195,7 m²","16,5 tỷ","8,4 m",8 m,N/A,Đông - Bắc,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,16/11/2023,Sale,LDP,37430284,0,5,False,False,283,SG,67,8937,2165,227
+53 m²,"5,6 tỷ",7 m,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38341032,0,5,False,False,41,SG,67,8940,11255,227
+132 m²,14 tỷ,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38202765,0,5,False,True,41,SG,67,8949,4788,227
+489 m²,"28,9 tỷ",N/A,N/A,1 tầng,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37912824,0,5,False,False,41,SG,67,8949,6940,227
+63 m²,"6,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38341750,0,5,False,False,41,SG,67,8949,836,227
+489 m²,"28,9 tỷ",N/A,N/A,1 tầng,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37871399,0,5,False,False,41,SG,67,8949,6940,227
+59 m²,"9,45 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37914390,0,5,False,False,163,SG,67,8935,4707,227
+56 m²,"8,8 tỷ",6 m,8 m,4 tầng,Đông - Bắc,Đông - Bắc,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,37773261,0,5,False,False,41,SG,67,8938,2023,227
+498 m²,75 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38097621,0,5,False,False,163,SG,67,8949,836,227
+60 m²,"10,5 tỷ",N/A,15 m,3 tầng,Đông - Bắc,Đông - Bắc,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,37587898,0,5,False,False,41,SG,67,8938,382,227
+162 m²,32 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38241262,0,5,False,False,163,SG,67,8938,4709,227
+325 m²,41 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38253479,0,5,False,False,163,SG,67,8942,366,227
+44 m²,8 tỷ,6 m,6 m,6 tầng,N/A,N/A,3 phòng,5 phòng,Sổ Hồng Riêng.,Cao Cấp.,17/10/2023,27/10/2023,Sale,LDP,38341576,0,5,False,False,41,SG,67,8947,727,227
+68 m²,"8,5 tỷ",10 m,10 m,2 tầng,Nam,Nam,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,37705720,0,5,False,False,41,SG,67,8935,4706,227
+68 m²,Thỏa thuận,N/A,7 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,13/10/2023,23/10/2023,Sale,LDP,37673605,0,5,False,True,41,SG,67,8941,13732,227
+300 m²,37 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38279449,0,5,False,False,163,SG,67,8939,4709,227
+1.260 m²,110 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38310231,0,5,False,True,163,SG,67,8943,2097,227
+270 m²,"17,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38275908,0,5,False,False,41,SG,67,8945,4761,227
+300 m²,37 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38276220,0,5,False,False,163,SG,67,8938,4706,227
+50 m²,Thỏa thuận,N/A,5 m,2 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38155658,0,5,False,False,41,SG,67,8950,11233,227
+144 m²,"10,3 tỷ",6 m,6 m,2 tầng,N/A,N/A,10 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,09/10/2023,19/10/2023,Sale,LDP,37441433,0,5,False,True,41,SG,67,8949,836,227
+126 m²,36 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,20/10/2023,30/10/2023,Sale,LDP,38284377,1325,5,False,False,163,SG,67,8938,382,227
+125 m²,18 tỷ,N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38284459,0,5,False,False,163,SG,67,8939,382,227
+70 m²,"6,8 tỷ","5,5 m",4 m,2 tầng,Tây - Bắc,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38341204,0,5,False,False,41,SG,67,8940,13732,227
+"49,5 m²",Thỏa thuận,"4,5 m",8 m,3 tầng,Đông - Nam,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,35941781,0,5,False,False,41,SG,67,8940,366,227
+235 m²,37 tỷ,"7,5 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38341140,0,5,False,False,163,SG,67,8943,2097,227
+1.050 m²,86 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,35707237,0,5,False,True,163,SG,67,8947,837,227
+80 m²,"8,1 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37592326,0,5,False,False,41,SG,67,8943,366,227
+220 m²,35 tỷ,11 m,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38341185,2409,5,False,False,325,SG,67,8942,382,227
+51 m²,"9,5 tỷ","4,5 m",4 m,4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,36974769,0,5,False,False,41,SG,67,8934,3789,227
+85 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38201371,0,5,False,False,283,SG,67,8939,650,227
+54 m²,Thỏa thuận,N/A,"4,5 m",4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ hồng riêng.,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,35941608,0,5,False,False,41,SG,67,8938,4706,227
+528 m²,56 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,38276136,0,5,False,False,163,SG,67,8943,366,227
+86 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38073965,0,5,False,False,283,SG,67,8947,837,227
+63 m²,"6,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37425360,0,5,False,False,41,SG,67,8943,2097,227
+52 m²,7 tỷ,N/A,10 m,4 tầng,Đông,Đông,5 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ.,13/10/2023,12/11/2023,Sale,LDP,38231553,0,5,False,False,41,SG,67,8943,13732,227
+40 m²,4 tỷ,N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38083995,0,5,False,False,41,SG,67,8943,11207,227
+56 m²,"12,6 tỷ",7 m,16 m,5 tầng,N/A,N/A,3 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cao cấp,17/10/2023,01/11/2023,Sale,LDP,38340369,0,5,False,False,163,SG,67,8950,2097,227
+47 m²,"4,3 tỷ",N/A,5 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,17/10/2023,01/11/2023,Sale,LDP,38340297,0,5,False,False,41,SG,67,8945,4761,227
+"66,3 m²","9,35 tỷ",N/A,N/A,4 tầng,Tây - Bắc,N/A,4 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38340163,0,5,True,False,41,SG,67,8946,650,227
+105 m²,"9,8 tỷ","4,8 m",5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38340072,0,5,False,False,163,SG,67,8936,11206,227
+41 m²,"5,58 tỷ",N/A,8 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,01/11/2023,Sale,LDP,38115176,0,5,False,False,41,SG,67,8940,366,227
+65 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,35788262,0,5,False,False,41,SG,67,8943,366,227
+60 m²,"6,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38257594,0,5,False,False,41,SG,67,8949,836,227
+78 m²,"3,4 tỷ",N/A,N/A,N/A,Tây - Bắc,Đông - Nam,2 phòng,2 phòng,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38287510,2409,5,False,True,324,SG,67,8942,382,227
+100 m²,"15,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38059710,0,5,False,False,163,SG,67,8949,6940,227
+100 m²,"15,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,33670788,2409,5,False,False,575,SG,67,8942,382,227
+"177,1 m²","14,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,28872417,0,5,False,False,41,SG,67,8938,2023,227
+105 m²,"12,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38340514,0,5,False,False,41,SG,67,8949,6940,227
+241 m²,"16,5 tỷ","6,9 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,27/10/2023,Sale,LDP,38186581,0,5,False,False,41,SG,67,8934,2474,227
+"40,2 m²","4,53 tỷ","4,02 m","2,5 m",3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38340468,0,5,False,False,41,SG,67,8950,6940,227
+130 m²,"28,67 tỷ","7,5 m",20 m,5 tầng,N/A,N/A,10 phòng,11 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,37822814,0,5,False,False,163,SG,67,8943,13732,227
+56 m²,"1,78 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ.,Gần full đồ nội thất.,17/10/2023,27/10/2023,Sale,LDP,28139629,2886,5,False,False,324,SG,67,8937,6938,227
+65 m²,"4,95 tỷ","3,5 m",4 m,2 tầng,Đông - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,01/11/2023,Sale,LDP,37026085,0,5,False,False,41,SG,67,8938,204,227
+53 m²,"2,1 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Đang chờ sổ,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,34825162,2944,5,False,False,324,SG,67,8948,650,227
+70 m²,"6,9 tỷ",5 m,3 m,3 tầng,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37718570,0,5,False,False,41,SG,67,8935,4706,227
+54 m²,"3,1 tỷ",N/A,3 m,N/A,N/A,N/A,4 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331653,0,5,False,False,41,SG,67,8937,650,227
+75 m²,"3,3 tỷ",N/A,N/A,N/A,Tây - Bắc,Đông - Nam,2 phòng,2 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38313843,2409,5,False,True,324,SG,67,8942,382,227
+59 m²,"5,2 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,10/10/2023,20/10/2023,Sale,LDP,38289617,0,5,False,True,41,SG,67,8947,837,227
+"48,8 m²","4,98 tỷ",4 m,"3,5 m",2 tầng,Đông - Nam,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,17/10/2023,27/10/2023,Sale,LDP,38339919,0,5,False,False,41,SG,67,8943,13732,227
+105 m²,10 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38319232,0,5,False,False,41,SG,67,8942,366,227
+106 m²,"9,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38339728,0,5,False,False,283,SG,67,8936,0,227
+72 m²,"9,55 tỷ","3,6 m",8 m,N/A,Đông - Nam,N/A,7 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38339667,0,5,False,False,163,SG,67,8948,2097,227
+45 m²,"6,2 tỷ",4 m,4 m,3 tầng,Đông,Đông,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cao cấp.,17/10/2023,01/11/2023,Sale,LDP,38339530,0,5,False,False,41,SG,67,8945,232,227
+106 m²,"10,2 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38339659,0,5,False,False,41,SG,67,8936,0,227
+243 m²,30 tỷ,N/A,N/A,2 tầng,N/A,N/A,5 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,28268369,0,5,False,False,163,SG,67,8940,366,227
+63 m²,"6,7 tỷ",5 m,N/A,3 tầng,Bắc,Bắc,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,13/10/2023,28/10/2023,Sale,LDP,38218395,0,5,True,False,41,SG,67,8945,232,227
+132 m²,"14,5 tỷ",5 m,30 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38266044,0,5,False,False,163,SG,67,8948,827,227
+120 m²,"10,5 tỷ",8 m,8 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,09/10/2023,19/10/2023,Sale,LDP,38044413,0,5,False,True,41,SG,67,8949,836,227
+72 m²,"8,6 tỷ","4,8 m",7 m,3 tầng,N/A,N/A,3 phòng,4 phòng,"Đã có sổ hồng, hoàn công đầy đủ.",Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,37647948,0,5,False,False,41,SG,67,8934,350,227
+53 m²,"2,85 tỷ","4,3 m",N/A,1 tầng,Đông - Nam,N/A,3 phòng,2 phòng,Đã có sổ hồng.,N/A,13/10/2023,23/10/2023,Sale,LDP,38313861,0,5,False,True,41,SG,67,8948,795,227
+100 m²,"27,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,6 phòng,4 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38088098,2409,5,False,False,325,SG,67,8942,382,227
+90 m²,"9,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38338120,0,5,False,False,163,SG,67,8943,2097,227
+"174,3 m²",15 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38339589,0,5,False,False,283,SG,67,8949,0,227
+32 m²,"3,27 tỷ",8 m,2 m,2 tầng,Tây - Bắc,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38339122,0,5,False,False,41,SG,67,8947,837,227
+229 m²,20 tỷ,N/A,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,13/10/2023,28/10/2023,Sale,LDP,35390167,0,5,False,False,41,SG,67,8937,11237,227
+"42,16 m²","4,99 tỷ",6 m,5 m,4 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38339130,0,5,False,False,41,SG,67,8940,366,227
+52 m²,"8,7 tỷ",4 m,9 m,4 tầng,Đông - Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cao cấp,14/10/2023,29/10/2023,Sale,LDP,38323704,0,5,True,False,41,SG,67,8942,366,227
+54 m²,"7,6 tỷ",4 m,6 m,4 tầng,Đông - Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,19/10/2023,03/11/2023,Sale,LDP,38236342,0,5,True,False,41,SG,67,8940,3631,227
+60 m²,"7,1 tỷ",N/A,8 m,N/A,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38338870,0,5,False,False,41,SG,67,8945,366,227
+52 m²,"7,75 tỷ",4 m,6 m,5 tầng,Đông - Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Cao cấp.,09/10/2023,24/10/2023,Sale,LDP,38277201,0,5,True,False,41,SG,67,8945,366,227
+"176,8 m²",36 tỷ,N/A,N/A,7 tầng,N/A,N/A,8 phòng,8 phòng,N/A,N/A,13/10/2023,28/10/2023,Sale,LDP,38311835,0,5,False,False,163,SG,67,8949,650,227
+50 m²,"4,79 tỷ",N/A,7 m,2 tầng,Đông,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38338731,0,5,False,False,41,SG,67,8947,837,227
+240 m²,90 triệu/m²,N/A,N/A,3 tầng,N/A,N/A,7 phòng,7 phòng,Hợp đồng mua bán.,N/A,17/10/2023,27/10/2023,Sale,LDP,38338582,0,5,False,False,41,SG,67,8934,1530,227
+"42,16 m²","4,99 tỷ",N/A,N/A,5 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38338743,0,5,False,False,41,SG,67,8940,11227,227
+290 m²,55 triệu/m²,10 m,4 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11/10/2023,21/10/2023,Sale,LDP,38136604,0,5,False,True,283,SG,67,8941,4510,227
+108 m²,"7,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38022153,0,5,False,True,41,SG,67,8948,650,227
+140 m²,"15,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,37945643,0,5,False,True,41,SG,67,8945,827,227
+56 m²,"7,96 tỷ",N/A,N/A,3 tầng,Đông - Nam,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,01/11/2023,Sale,LDP,37928405,0,5,False,False,325,SG,67,8945,4761,227
+70 m²,"2,65 tỷ",5 m,5 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ Hồng Riêng,Nội thất đầy đủ,13/10/2023,23/10/2023,Sale,LDP,38019693,0,5,False,True,41,SG,67,8938,4706,227
+52 m²,"3,85 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38222799,0,5,False,False,283,SG,67,8945,727,227
+50 m²,"1,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37786947,1293,5,False,False,324,SG,67,8947,837,227
+"45,33 m²","5,39 tỷ",N/A,N/A,2 tầng,Nam,Nam,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38338496,0,5,False,False,41,SG,67,8947,837,227
+68 m²,"18,5 tỷ",4 m,18 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Đã có sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38338427,0,5,False,False,163,SG,67,8943,366,227
+102 m²,"10,5 tỷ",18 m,10 m,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38338279,0,5,False,False,41,SG,67,8941,4510,227
+"52,7 m²",Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38334358,0,5,False,False,41,SG,67,8935,11222,227
+107 m²,"12,5 tỷ",5 m,6 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Chuẩn,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,38338267,0,5,False,False,41,SG,67,8940,4713,227
+150 m²,25 tỷ,9 m,N/A,3 tầng,N/A,N/A,8 phòng,7 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,36623184,0,5,False,False,163,SG,67,8942,6940,227
+100 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,6 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38237718,0,5,False,False,325,SG,67,8939,4710,227
+100 m²,"16,8 tỷ",5 m,12 m,5 tầng,Bắc,Bắc,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,19/10/2023,29/10/2023,Sale,LDP,29251683,2409,5,False,False,325,SG,67,8942,382,227
+147 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,4 phòng,5 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,37979676,0,5,False,False,163,SG,67,8937,2023,227
+90 m²,"12,8 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,26685292,0,5,False,False,41,SG,67,8939,650,227
+80 m²,"7,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,36621648,0,5,False,False,41,SG,67,8948,650,227
+25 m²,"2,58 tỷ","3,6 m",2 m,1 tầng,Đông - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38337934,0,5,False,False,41,SG,67,8950,2097,227
+64 m²,"6,7 tỷ",4 m,7 m,N/A,Đông - Bắc,N/A,N/A,N/A,Sổ hồng riêng,N/A,17/10/2023,27/10/2023,Sale,LDP,37288298,0,5,False,False,283,SG,67,8937,11289,227
+50 m²,"7,35 tỷ",N/A,8 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Đã có sổ hồng,Full nội thất cao cấp,17/10/2023,27/10/2023,Sale,LDP,34740516,0,5,False,False,163,SG,67,8937,11216,227
+72 m²,"8,3 tỷ",N/A,12 m,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,09/10/2023,24/10/2023,Sale,LDP,37207422,0,5,False,False,41,SG,67,8939,650,227
+"39,96 m²","4,99 tỷ",N/A,4 m,4 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38338096,0,5,False,False,41,SG,67,8940,366,227
+140 m²,11 tỷ,N/A,N/A,5 tầng,N/A,N/A,10 phòng,10 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38157870,0,5,False,False,41,SG,67,8947,727,227
+220 m²,42 tỷ,N/A,N/A,3 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38337285,0,5,False,False,163,SG,67,8939,382,227
+120 m²,"12,5 tỷ",N/A,10 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,37294146,0,5,False,False,163,SG,67,8949,4788,227
+252 m²,"35,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38136868,0,5,False,False,163,SG,67,8939,382,227
+140 m²,"15,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,21/09/2023,21/10/2023,Sale,LDP,38153243,0,5,False,True,163,SG,67,8945,827,227
+64 m²,"5,25 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,22/11/2023,Sale,LDP,38255323,0,5,False,False,41,SG,67,8945,232,227
+291 m²,"15,6 tỷ","11,3 m","2,5 m",N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,27/10/2023,Sale,LDP,38302809,0,5,False,False,41,SG,67,8942,366,227
+80 m²,"3,25 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Đã có sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,37951496,1245,5,False,False,324,SG,67,8937,6938,227
+"148,2 m²","14,7 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,4 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,33169975,0,5,False,False,163,SG,67,8949,650,227
+19 m²,"1,39 tỷ",N/A,N/A,1 tầng,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38337424,0,5,False,False,41,SG,67,8945,366,227
+"98,9 m²","12,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,36251595,0,5,False,False,163,SG,67,8936,338,227
+80 m²,"9,8 tỷ",4 m,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,09/10/2023,08/11/2023,Sale,LDP,37386722,0,5,False,False,163,SG,67,8945,4714,227
+105 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,09/10/2023,19/10/2023,Sale,LDP,37392541,0,5,False,True,41,SG,67,8939,650,227
+126 m²,38 tỷ,35 m,35 m,5 tầng,N/A,N/A,12 phòng,10 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38091952,0,5,False,False,163,SG,67,8938,382,227
+241 m²,16 tỷ,7 m,7 m,N/A,N/A,N/A,N/A,N/A,Đã có sổ đỏ.,N/A,17/10/2023,27/10/2023,Sale,LDP,38333646,0,5,False,False,41,SG,67,8934,2474,227
+30 m²,"2,2 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,38234126,0,5,False,False,41,SG,67,8940,4510,227
+"38,25 m²","2,49 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38151658,0,5,False,False,41,SG,67,8938,4773,227
+"212,5 m²",12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38191521,0,5,False,True,283,SG,67,8941,837,227
+91 m²,"6,75 tỷ",N/A,N/A,4 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,28/10/2023,Sale,LDP,38312212,0,5,False,False,41,SG,67,8945,4761,227
+62 m²,"6,5 tỷ",N/A,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,01/11/2023,Sale,LDP,37719622,0,5,False,False,41,SG,67,8943,2097,227
+"59,16 m²","6,5 tỷ",6 m,3 m,4 tầng,Bắc,N/A,3 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38336775,0,5,False,False,41,SG,67,8943,366,227
+35 m²,"3,8 tỷ",N/A,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38336696,0,5,False,False,41,SG,67,8950,11223,227
+"148,5 m²",9 tỷ,N/A,N/A,2 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38336993,0,5,False,False,41,SG,67,8947,366,227
+51 m²,"4,3 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,37438916,0,5,False,False,41,SG,67,8948,795,227
+29 m²,"3,2 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38336678,0,5,False,False,41,SG,67,8941,837,227
+43 m²,"2,95 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38336620,0,5,False,False,41,SG,67,8945,727,227
+67 m²,11 tỷ,4 m,10 m,5 tầng,Đông - Nam,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,13/10/2023,23/10/2023,Sale,LDP,38310715,0,5,False,True,41,SG,67,8947,366,227
+125 m²,17 tỷ,N/A,12 m,6 tầng,N/A,N/A,15 phòng,16 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,35163363,0,5,False,False,163,SG,67,8943,11215,227
+"41,2 m²","8,35 tỷ",N/A,30 m,3 tầng,Tây - Nam,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,01/11/2023,Sale,LDP,38335861,0,5,False,False,163,SG,67,8942,366,227
+52 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,27979899,0,5,False,False,41,SG,67,8938,382,227
+155 m²,"19,5 tỷ",6 m,16 m,1 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,38335840,0,5,False,False,163,SG,67,8935,4709,227
+45 m²,"5,6 tỷ","3,5 m",6 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38335829,0,5,False,False,41,SG,67,8938,2023,227
+"127,5 m²",19 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,38068418,0,5,False,False,163,SG,67,8937,650,227
+75 m²,"9,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38155237,0,5,False,False,41,SG,67,8938,2023,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,6 phòng,5 phòng,N/A,N/A,19/10/2023,29/10/2023,Sale,LDP,38200575,1325,5,False,False,325,SG,67,8938,382,227
+100 m²,"16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,37248956,2409,5,False,False,163,SG,67,8942,382,227
+80 m²,9 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,38296530,0,5,False,False,163,SG,67,8937,650,227
+99 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38337141,0,5,False,False,283,SG,67,8949,650,227
+"58,8 m²","7,95 tỷ","4,2 m",8 m,4 tầng,Tây,N/A,4 phòng,6 phòng,Đã có sổ hồng,Cao cấp đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,37781909,0,5,False,False,325,SG,67,8941,837,227
+260 m²,27 tỷ,12 m,14 m,8 tầng,N/A,N/A,28 phòng,30 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,37582533,0,5,False,False,41,SG,67,8945,727,227
+68 m²,"11,7 tỷ",4 m,8 m,5 tầng,Bắc,N/A,4 phòng,7 phòng,Đã có sổ hồng,Cao cấp đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38149415,0,5,False,False,41,SG,67,8941,4713,227
+60 m²,"6,9 tỷ","4,5 m",5 m,4 tầng,Tây,N/A,4 phòng,5 phòng,Đã có sổ hồng pháp lý đầy đủ,Nội thất đầy đủ,17/10/2023,27/10/2023,Sale,LDP,34341797,0,5,False,False,325,SG,67,8947,837,227
+100 m²,22 tỷ,N/A,N/A,5 tầng,N/A,N/A,8 phòng,8 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38335457,2409,5,False,False,325,SG,67,8942,382,227
+180 m²,"14,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37974878,0,5,False,False,41,SG,67,8938,2023,227
+70 m²,"5,7 tỷ",6 m,N/A,N/A,Tây - Bắc,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38102100,0,5,False,False,41,SG,67,8938,4991,227
+44 m²,"5,6 tỷ",4 m,5 m,4 tầng,Tây,N/A,4 phòng,3 phòng,Đã có sổ hồng đầy đủ,Cao cấp đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38192305,0,5,False,False,163,SG,67,8947,837,227
+270 m²,"19,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,34027417,0,5,False,False,41,SG,67,8938,2023,227
+56 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38337034,0,5,False,False,41,SG,67,8940,366,227
+170 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,37962780,0,5,False,False,41,SG,67,8938,2023,227
+150 m²,17 tỷ,"7,5 m",N/A,4 tầng,N/A,N/A,20 phòng,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,33943223,0,5,False,False,41,SG,67,8939,6940,227
+100 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,6 phòng,4 phòng,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38087829,2409,5,False,False,325,SG,67,8942,382,227
+65 m²,Thỏa thuận,N/A,7 m,5 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37741934,0,5,False,False,41,SG,67,8940,13732,227
+123 m²,"10,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37974721,0,5,False,True,41,SG,67,8938,2023,227
+40 m²,"4,99 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,3 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38337875,0,5,False,False,41,SG,67,8940,11227,227
+82 m²,"16,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Có sổ,N/A,13/10/2023,23/10/2023,Sale,LDP,27209797,0,5,False,True,163,SG,67,8943,2097,227
+30 m²,"3,38 tỷ",N/A,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38337827,0,5,False,False,41,SG,67,8950,11233,227
+35 m²,"4,65 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,38326746,0,5,True,False,41,SG,67,8938,2023,227
+"55,03 m²","2,25 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Hợp đồng mua bán,"Hoàn thiện cơ bản gồm: Tủ bếp trên dưới, thiết bị vệ sinh, sơn nước, hệ thống điện, sàn gỗ,...",17/10/2023,27/10/2023,Sale,LDP,34956369,1336,5,False,False,324,SG,67,8934,433,227
+48 m²,"2,56 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38217886,0,5,False,False,41,SG,67,8941,4713,227
+78 m²,"2,6 tỷ",N/A,N/A,N/A,Đông - Bắc,Đông - Bắc,2 phòng,2 phòng,Hợp đồng mua bán,Cơ bản,17/10/2023,27/10/2023,Sale,LDP,37331023,1336,5,False,False,324,SG,67,8934,433,227
+125 m²,"9,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37852102,0,5,False,False,41,SG,67,8935,4707,227
+"38,5 m²","5,27 tỷ","3,5 m",4 m,3 tầng,Bắc,Bắc,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38328954,0,5,False,False,41,SG,67,8947,727,227
+70 m²,"9,2 tỷ",7 m,7 m,4 tầng,Đông - Nam,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,13/10/2023,23/10/2023,Sale,LDP,38207654,0,5,False,True,41,SG,67,8940,366,227
+48 m²,"4,89 tỷ",4 m,4 m,2 tầng,Tây - Bắc,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,09/10/2023,19/10/2023,Sale,LDP,38276596,0,5,False,True,41,SG,67,8947,837,227
+60 m²,"5,05 tỷ",4 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37752339,0,5,False,False,283,SG,67,8938,2023,227
+85 m²,"6,98 tỷ","5,5 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,37854464,0,5,False,False,283,SG,67,8941,4713,227
+250 m²,28 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,36780209,0,5,False,False,163,SG,67,8943,4713,227
+75 m²,"7,6 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,36611011,0,5,False,False,163,SG,67,8949,836,227
+90 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38338361,0,5,False,False,283,SG,67,8937,6940,227
+65 m²,6 tỷ,4 m,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,34827426,0,5,False,False,41,SG,67,8938,2023,227
+55 m²,"2,65 tỷ",6 m,8 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38337401,0,5,False,False,41,SG,67,8934,433,227
+50 m²,"1,5 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,1 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,33133652,1293,5,False,False,324,SG,67,8947,837,227
+81 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,33023126,0,5,False,True,163,SG,67,8936,4706,227
+35 m²,Thỏa thuận,"3,8 m",N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,"Đặc biệt tặng lại toàn bộ nội thất nhập khẩu và tài sản giá trị rất lớn trong nhà như ti vi, tủ lạnh, máy lạnh, giường tủ, bàn phấn.",17/10/2023,27/10/2023,Sale,LDP,37736963,0,5,False,False,41,SG,67,8940,11227,227
+64 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,13/10/2023,23/10/2023,Sale,LDP,38317816,0,5,False,True,283,SG,67,8948,0,227
+163 m²,16 tỷ,13 m,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,34325493,0,5,False,True,163,SG,67,8938,11221,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38336967,0,5,False,False,283,SG,67,8938,2023,227
+"111,1 m²","11,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,36776023,0,5,False,False,41,SG,67,8943,366,227
+35 m²,Thỏa thuận,"3,8 m",N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37508872,0,5,False,False,41,SG,67,8945,727,227
+"67,5 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,17/10/2023,27/10/2023,Sale,LDP,38087574,0,5,False,False,283,SG,67,8940,4510,227
+60 m²,Thỏa thuận,5 m,4 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38336918,0,5,False,False,41,SG,67,8938,2023,227
+285 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38312303,0,5,False,False,41,SG,67,8949,6940,227
+"45,5 m²","5,1 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,5 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38330115,0,5,False,False,41,SG,67,8945,232,227
+50 m²,"4,98 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38076512,0,5,False,True,41,SG,67,8943,13732,227
+41 m²,"4,2 tỷ",N/A,4 m,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38159360,0,5,False,False,41,SG,67,8940,366,227
+423 m²,23 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38260839,0,5,False,False,163,SG,67,8945,827,227
+66 m²,10 tỷ,4 m,N/A,4 tầng,Tây - Bắc,N/A,4 phòng,6 phòng,Đã có sổ,Full nội thất,16/10/2023,31/10/2023,Sale,LDP,37613376,0,5,False,False,41,SG,67,8947,4713,227
+"67,2 m²","10,4 tỷ",N/A,7 m,5 tầng,Bắc,N/A,6 phòng,7 phòng,Đã có sổ,Cao cấp,16/10/2023,31/10/2023,Sale,LDP,37958457,0,5,False,False,41,SG,67,8937,4196,227
+80 m²,6 tỷ,"4,5 m",10 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,11/10/2023,21/10/2023,Sale,LDP,37058920,0,5,False,True,163,SG,67,8945,4761,227
+499 m²,"28,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37887964,0,5,False,False,41,SG,67,8949,6940,227
+96 m²,"13,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36755365,0,5,False,False,163,SG,67,8935,4705,227
+52 m²,"4,4 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hợp đồng mua bán.,N/A,15/10/2023,25/10/2023,Sale,LDP,38107879,0,5,False,False,41,SG,67,8949,650,227
+"81,3 m²",12 tỷ,N/A,N/A,4 tầng,Đông - Nam,N/A,8 phòng,8 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38235973,0,5,False,False,325,SG,67,8950,11233,227
+5.523 m²,600 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37242689,0,5,False,False,163,SG,67,8937,2023,227
+120 m²,"11,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,35565344,0,5,False,False,163,SG,67,8937,650,227
+285 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,38307230,0,5,False,True,41,SG,67,8949,6940,227
+245 m²,"23,5 tỷ",6 m,N/A,1 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36686284,0,5,False,False,163,SG,67,8949,650,227
+90 m²,"15,9 tỷ","4,2 m",N/A,1 tầng,N/A,N/A,4 phòng,3 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,35144575,0,5,False,False,163,SG,67,8939,382,227
+70 m²,"8,8 tỷ",N/A,10 m,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37968755,0,5,False,False,41,SG,67,8948,650,227
+84 m²,"11,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,5 phòng,6 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,34583408,0,5,False,False,41,SG,67,8950,650,227
+650 m²,47 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37990930,0,5,False,False,41,SG,67,8935,4705,227
+140 m²,11 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38110211,0,5,False,False,41,SG,67,8940,11277,227
+522 m²,"28,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38109865,0,5,False,False,41,SG,67,8949,6940,227
+180 m²,"22,8 tỷ",6 m,N/A,6 tầng,N/A,N/A,32 phòng,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32264840,0,5,False,False,41,SG,67,8938,2023,227
+160 m²,"19,7 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38109721,0,5,False,False,325,SG,67,8937,11237,227
+143 m²,22 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37593396,0,5,False,False,163,SG,67,8949,836,227
+145 m²,"11,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38110178,0,5,False,False,41,SG,67,8947,727,227
+"148,5 m²",9 tỷ,6 m,6 m,2 tầng,N/A,N/A,6 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ nội thất.,16/10/2023,26/10/2023,Sale,LDP,35086470,0,5,False,False,41,SG,67,8947,366,227
+48 m²,Thỏa thuận,N/A,5 m,N/A,N/A,N/A,4 phòng,5 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38073006,0,5,False,False,41,SG,67,8945,232,227
+45 m²,"3,89 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Đã có sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38331637,0,5,False,False,41,SG,67,8942,366,227
+144 m²,"9,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,31854069,0,5,False,False,283,SG,67,8938,2023,227
+70 m²,"8,7 tỷ",N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32098691,0,5,False,False,41,SG,67,8935,4706,227
+50 m²,"6,49 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,"- Nội thất: 3TV, 2 tủ lạnh, 5 máy lạnh, tủ, giường...",14/10/2023,24/10/2023,Sale,LDP,38208101,0,5,False,False,41,SG,67,8949,650,227
+300 m²,25 tỷ,8 m,N/A,1 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36539835,0,5,False,False,163,SG,67,8947,366,227
+75 m²,10 tỷ,"4,2 m",N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,36606703,0,5,False,False,41,SG,67,8942,366,227
+80 m²,"6,5 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,11/10/2023,21/10/2023,Sale,LDP,38294331,0,5,False,True,41,SG,67,8948,650,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38334851,0,5,False,False,283,SG,67,8937,836,227
+92 m²,8 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38244913,0,5,False,False,41,SG,67,8934,1530,227
+60 m²,"7,39 tỷ",5 m,6 m,3 tầng,Nam,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,37338775,0,5,False,False,41,SG,67,8948,2097,227
+48 m²,"1,9 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,13/10/2023,23/10/2023,Sale,LDP,37772706,1293,5,False,True,324,SG,67,8947,0,227
+59 m²,"8,7 tỷ",N/A,5 m,5 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,09/10/2023,19/10/2023,Sale,LDP,38187367,0,5,False,True,41,SG,67,8935,1433,227
+120 m²,"25,95 tỷ",6 m,12 m,N/A,Nam,Nam,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,36233391,2409,5,False,False,325,SG,67,8942,0,227
+367 m²,40 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38241355,0,5,False,False,163,SG,67,8934,1530,227
+58 m²,"3,55 tỷ","4,5 m",3 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333908,0,5,True,False,41,SG,67,8943,366,227
+160 m²,33 tỷ,N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38253114,2409,5,False,False,163,SG,67,8942,382,227
+100 m²,"17,5 tỷ",N/A,N/A,N/A,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36472922,2409,5,False,False,325,SG,67,8942,382,227
+100 m²,Thỏa thuận,5 m,14 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Đang chờ sổ.,"Nhà hoàn thiện đẹp, thiết bị vệ sinh & bếp cao cấp, tặng toàn bộ nội thất, bếp âm, tủ, giường...",16/10/2023,26/10/2023,Sale,LDP,37627472,0,5,False,False,325,SG,67,8939,4710,227
+"30,6 m²","3,9 tỷ","3,3 m",10 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,14/10/2023,29/10/2023,Sale,LDP,38037203,0,5,False,False,41,SG,67,8935,4707,227
+45 m²,"6,5 tỷ",N/A,"4,5 m",5 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,09/10/2023,19/10/2023,Sale,LDP,37596315,0,5,False,True,41,SG,67,8938,4773,227
+44 m²,"3,95 tỷ",4 m,4 m,2 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38335345,0,5,False,False,41,SG,67,8942,366,227
+"67,2 m²","7,25 tỷ","4,2 m",6 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,09/10/2023,19/10/2023,Sale,LDP,38045150,0,5,False,True,41,SG,67,8949,836,227
+130 m²,21 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,34891528,0,5,False,False,163,SG,67,8936,4706,227
+60 m²,"7,5 tỷ",5 m,9 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,12/10/2023,22/10/2023,Sale,LDP,38149756,0,5,False,True,41,SG,67,8938,382,227
+80 m²,"8,5 tỷ",4 m,12 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,10/10/2023,20/10/2023,Sale,LDP,38141049,0,5,False,True,41,SG,67,8939,382,227
+90 m²,"9,5 tỷ",N/A,5 m,5 tầng,Nam,N/A,9 phòng,10 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,20/10/2023,04/11/2023,Sale,LDP,38133555,0,5,False,False,41,SG,67,8940,4713,227
+128 m²,"17,8 tỷ",5 m,20 m,2 tầng,N/A,N/A,4 phòng,3 phòng,Đã có sổ.,N/A,15/10/2023,30/10/2023,Sale,LDP,38325768,0,5,False,False,163,SG,67,8939,382,227
+75 m²,"10,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,37318533,0,5,False,False,41,SG,67,8942,366,227
+86 m²,"6,6 tỷ",N/A,N/A,N/A,Tây - Bắc,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,03/10/2023,02/11/2023,Sale,LDP,38234837,0,5,True,False,41,SG,67,8949,6940,227
+48 m²,"2,9 tỷ",4 m,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,13/10/2023,23/10/2023,Sale,LDP,38226148,0,5,False,True,41,SG,67,8946,650,227
+30 m²,3 tỷ,6 m,6 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,13/10/2023,23/10/2023,Sale,LDP,37377935,0,5,False,True,41,SG,67,8945,4761,227
+288 m²,"15,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38080359,0,5,False,False,283,SG,67,8941,837,227
+"65,7 m²","7,8 tỷ",N/A,10 m,N/A,Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,31/10/2023,Sale,LDP,38335147,0,5,False,False,41,SG,67,8942,6940,227
+160 m²,21 tỷ,N/A,12 m,N/A,Đông - Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,31/10/2023,Sale,LDP,37749919,0,5,False,False,41,SG,67,8937,11237,227
+120 m²,20 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38261883,0,5,False,False,163,SG,67,8936,4709,227
+110 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38262061,0,5,False,False,41,SG,67,8949,836,227
+400 m²,"28,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38261252,0,5,False,False,41,SG,67,8949,6940,227
+390 m²,"39,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38262205,0,5,False,False,163,SG,67,8947,650,227
+64 m²,"8,3 tỷ",4 m,6 m,4 tầng,N/A,N/A,5 phòng,5 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38164275,0,5,False,False,41,SG,67,8935,4707,227
+68 m²,"7,7 tỷ",N/A,10 m,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38334308,0,5,False,False,41,SG,67,8938,2023,227
+65 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,37771074,0,5,False,False,283,SG,67,8937,2023,227
+60 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36629806,0,5,False,False,283,SG,67,8938,4706,227
+136 m²,23 tỷ,8 m,10 m,4 tầng,Nam,Nam,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333850,0,5,False,False,325,SG,67,8949,836,227
+38 m²,"3,55 tỷ",4 m,3 m,4 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333859,0,5,True,False,41,SG,67,8945,3922,227
+100 m²,Thỏa thuận,5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,37661350,2409,5,False,True,325,SG,67,8942,382,227
+216 m²,40 tỷ,12 m,12 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,35122554,1325,5,False,False,325,SG,67,8938,382,227
+49 m²,"4,5 tỷ",4 m,6 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333951,0,5,True,False,41,SG,67,8945,727,227
+72 m²,"6,2 tỷ",4 m,6 m,2 tầng,Đông - Nam,Đông - Nam,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,31/10/2023,Sale,LDP,38333167,0,5,False,False,41,SG,67,8946,650,227
+117 m²,"5,4 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,31021664,1299,5,False,False,324,SG,67,8935,1433,227
+41 m²,"4,07 tỷ","4,1 m","3,5 m",2 tầng,Đông,N/A,2 phòng,2 phòng,Đã có sổ hồng hoàn công đầy đủ,Cao cấp đầy đủ như hình,16/10/2023,26/10/2023,Sale,LDP,38333675,0,5,False,False,41,SG,67,8938,4706,227
+58 m²,"4,4 tỷ",N/A,7 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333823,0,5,False,False,41,SG,67,8950,6940,227
+42 m²,Thỏa thuận,3 m,8 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Đã có sổ.,Nội thất đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,37032693,0,5,False,False,163,SG,67,8945,232,227
+72 m²,"7,8 tỷ",N/A,N/A,N/A,Đông - Bắc,N/A,4 phòng,5 phòng,Đã có sổ.,Tặng kèm full nội thất.,17/10/2023,27/10/2023,Sale,LDP,36574899,0,5,False,False,41,SG,67,8941,11219,227
+65 m²,"1,9 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,32093309,2094,5,False,True,324,SG,67,8947,11323,227
+68 m²,"1,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37787039,1293,5,False,False,324,SG,67,8947,837,227
+100 m²,"11,8 tỷ",4 m,40 m,3 tầng,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Không nội thất.,23/10/2023,02/11/2023,Sale,LDP,36371160,0,5,False,False,163,SG,67,8934,1433,227
+48 m²,7 tỷ,4 m,6 m,5 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,17/10/2023,27/10/2023,Sale,LDP,38335341,0,5,False,False,41,SG,67,8941,4713,227
+130 m²,"17,99 tỷ",5 m,30 m,8 tầng,N/A,N/A,20 phòng,20 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38058315,0,5,False,False,163,SG,67,8939,382,227
+56 m²,"4,8 tỷ",4 m,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38335346,0,5,False,False,41,SG,67,8940,366,227
+52 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,17/10/2023,27/10/2023,Sale,LDP,38226050,0,5,False,False,41,SG,67,8941,11219,227
+"41,4 m²","3,65 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,17/10/2023,27/10/2023,Sale,LDP,38262610,0,5,False,False,41,SG,67,8945,232,227
+52 m²,"6,2 tỷ",4 m,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38335326,0,5,False,False,41,SG,67,8945,232,227
+48 m²,Thỏa thuận,4 m,N/A,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,17/10/2023,27/10/2023,Sale,LDP,38336406,0,5,False,False,41,SG,67,8939,382,227
+131 m²,"16,3 tỷ","4,2 m",12 m,4 tầng,N/A,N/A,7 phòng,7 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38253954,0,5,False,False,163,SG,67,8940,4510,227
+"34,65 m²","3,9 tỷ",3 m,3 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ Hồng Riêng.,Cao Cấp.,14/10/2023,24/10/2023,Sale,LDP,38108448,0,5,False,False,41,SG,67,8935,4705,227
+48 m²,5 tỷ,4 m,4 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ Hồng Riêng.,Cao Cấp.,21/10/2023,31/10/2023,Sale,LDP,38147908,0,5,False,False,41,SG,67,8949,6940,227
+44 m²,6 tỷ,5 m,5 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ Hồng Riêng,Đầy Đủ.,21/10/2023,31/10/2023,Sale,LDP,38289561,0,5,False,False,41,SG,67,8937,2023,227
+36 m²,"3,37 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ hồng riêng.,N/A,16/10/2023,31/10/2023,Sale,LDP,38232778,0,5,False,False,41,SG,67,8950,2842,227
+156 m²,"21,5 tỷ",6 m,12 m,1 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,19/10/2023,29/10/2023,Sale,LDP,38168296,0,5,False,False,163,SG,67,8935,4709,227
+66 m²,"4,7 tỷ",4 m,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Đã có sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37094619,0,5,False,False,41,SG,67,8947,837,227
+80 m²,"11,8 tỷ",7 m,7 m,4 tầng,Đông - Nam,Đông - Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,37937499,0,5,False,False,41,SG,67,8934,1530,227
+56 m²,"4,2 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hợp đồng mua bán,N/A,14/10/2023,24/10/2023,Sale,LDP,38114077,0,5,False,False,41,SG,67,8949,650,227
+48 m²,"4,95 tỷ",N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,26/10/2023,Sale,LDP,38087606,0,5,False,False,41,SG,67,8947,837,227
+71 m²,30 tỷ,N/A,N/A,6 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,31/10/2023,Sale,LDP,38247094,0,5,False,False,163,SG,67,8938,382,227
+47 m²,"1,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,36685086,1293,5,False,False,324,SG,67,8947,837,227
+90 m²,"8,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38318738,0,5,False,False,41,SG,67,8941,13732,227
+115 m²,"12,5 tỷ",N/A,12 m,5 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Siêu cao cấp,16/10/2023,26/10/2023,Sale,LDP,38333503,0,5,False,False,41,SG,67,8943,4713,227
+123 m²,"34,76 tỷ",30 m,30 m,N/A,Đông - Nam,Đông - Nam,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,15/11/2023,Sale,LDP,36761776,0,5,False,False,575,SG,67,8939,4710,227
+"47,7 m²",Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,36843904,0,5,False,False,41,SG,67,8947,837,227
+100 m²,"29,18 tỷ",N/A,40 m,5 tầng,Bắc,Bắc,N/A,N/A,Hợp đồng mua bán.,Cơ bản.,16/10/2023,15/11/2023,Sale,LDP,37894698,2409,5,False,False,575,SG,67,8942,382,227
+60 m²,"6,5 tỷ",6 m,"3,5 m",4 tầng,Bắc,N/A,3 phòng,4 phòng,Đã có sổ hồng hoàn công đầy đủ,Cao cấp đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333634,0,5,False,False,41,SG,67,8943,366,227
+100 m²,"23,5 tỷ",N/A,12 m,5 tầng,Bắc,Bắc,N/A,N/A,Hợp đồng mua bán.,N/A,16/10/2023,15/11/2023,Sale,LDP,37895008,2409,5,False,False,575,SG,67,8942,382,227
+100 m²,"29,18 tỷ",N/A,40 m,5 tầng,Bắc,Bắc,N/A,N/A,Hợp đồng mua bán.,Cơ bản.,16/10/2023,15/11/2023,Sale,LDP,37894678,2409,5,False,False,575,SG,67,8942,382,227
+123 m²,"34,76 tỷ",30 m,30 m,N/A,Đông - Nam,Đông - Nam,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,15/11/2023,Sale,LDP,37894644,0,5,False,False,163,SG,67,8939,4710,227
+100 m²,"28,55 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,15/11/2023,Sale,LDP,37894688,2409,5,False,False,163,SG,67,8942,6940,227
+21 m²,"1,86 tỷ",N/A,10 m,2 tầng,Tây,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,31/10/2023,Sale,LDP,35453950,0,5,False,False,41,SG,67,8939,119,227
+100 m²,Thỏa thuận,5 m,40 m,5 tầng,Bắc,Bắc,N/A,N/A,Hợp đồng mua bán.,N/A,16/10/2023,15/11/2023,Sale,LDP,37894801,2409,5,False,False,575,SG,67,8942,382,227
+38 m²,Thỏa thuận,"4,25 m",4 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38331606,0,5,False,False,41,SG,67,8946,0,227
+128 m²,20 tỷ,186 m,N/A,7 tầng,N/A,N/A,18 phòng,18 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37727582,0,5,False,False,163,SG,67,8937,650,227
+52 m²,Thỏa thuận,N/A,9 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38333570,0,5,False,False,283,SG,67,8937,836,227
+50 m²,"3,95 tỷ",4 m,3 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38253795,0,5,False,False,41,SG,67,8947,837,227
+"45,5 m²","5,6 tỷ",7 m,4 m,4 tầng,Tây - Nam,N/A,4 phòng,3 phòng,Đã có sổ hồng.,Cao cấp đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38149323,0,5,False,False,41,SG,67,8940,366,227
+90 m²,"10,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38333502,0,5,False,False,41,SG,67,8941,4510,227
+46 m²,"4,8 tỷ",4 m,3 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,26/10/2023,Sale,LDP,38332624,0,5,False,False,41,SG,67,8945,366,227
+68 m²,"11,9 tỷ","4,3 m",8 m,4 tầng,Đông - Bắc,N/A,4 phòng,5 phòng,Sổ hoàn công.,Cao cấp đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,36613489,0,5,False,False,325,SG,67,8947,11273,227
+44 m²,"4,9 tỷ",4 m,"4,5 m",3 tầng,Nam,N/A,3 phòng,4 phòng,Đã có sổ hồng,Cao cấp đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38055362,0,5,False,False,41,SG,67,8947,837,227
+"51,8 m²","5,9 tỷ","3,7 m","4,5 m",4 tầng,Bắc,N/A,4 phòng,5 phòng,Đã có sổ hồng,Cao cấp đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38249561,0,5,False,False,41,SG,67,8941,13732,227
+84 m²,"10,9 tỷ","4,2 m",6 m,4 tầng,Tây,N/A,4 phòng,5 phòng,Đã có sổ hồng,Cao cấp đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37119600,0,5,False,False,41,SG,67,8945,232,227
+135 m²,9 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,20/10/2023,30/10/2023,Sale,LDP,38280230,0,5,False,False,41,SG,67,8935,4707,227
+64 m²,"8,9 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331914,0,5,False,False,41,SG,67,8935,4707,227
+"71,4 m²","10,7 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333395,0,5,False,False,41,SG,67,8942,366,227
+"50,4 m²",Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38332189,0,5,False,False,41,SG,67,8935,4707,227
+90 m²,Thỏa thuận,N/A,9 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38333416,0,5,False,False,283,SG,67,8938,2023,227
+56 m²,"6,35 tỷ","4,3 m",5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38331887,0,5,False,False,41,SG,67,8947,727,227
+80 m²,"7,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331867,0,5,False,False,41,SG,67,8938,2023,227
+198 m²,19 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38241872,0,5,False,False,163,SG,67,8938,2023,227
+112 m²,"14,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38333281,0,5,False,False,163,SG,67,8940,366,227
+400 m²,40 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38253604,0,5,False,False,41,SG,67,8945,727,227
+216 m²,"22,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38253262,0,5,False,False,41,SG,67,8940,366,227
+70 m²,"8,9 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331902,0,5,False,False,41,SG,67,8934,512,227
+90 m²,"12,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331843,0,5,False,False,163,SG,67,8934,4143,227
+"114,2 m²","12,5 tỷ",6 m,10 m,5 tầng,N/A,N/A,6 phòng,6 phòng,Đã có sổ,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37156537,0,5,False,False,41,SG,67,8948,650,227
+105 m²,14 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38253821,0,5,False,False,41,SG,67,8940,366,227
+350 m²,59 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38168807,0,5,False,False,163,SG,67,8950,837,227
+378 m²,60 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38097982,0,5,False,False,163,SG,67,8939,4706,227
+100 m²,"29,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38163364,0,5,False,False,163,SG,67,8938,382,227
+54 m²,Thỏa thuận,N/A,N/A,5 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38333019,0,5,False,False,41,SG,67,8938,2023,227
+"48,2 m²",Thỏa thuận,N/A,N/A,3 tầng,Đông - Bắc,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36546646,0,5,False,False,41,SG,67,8938,2023,227
+105 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38096931,0,5,False,False,163,SG,67,8941,4510,227
+"38,1 m²","6,3 tỷ",4 m,5 m,4 tầng,Tây - Bắc,Tây - Bắc,4 phòng,3 phòng,Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,36399406,0,5,False,False,41,SG,67,8940,366,227
+840 m²,90 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,35601786,0,5,False,False,163,SG,67,8943,366,227
+55 m²,"7,8 tỷ","3,7 m",6 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,12/10/2023,22/10/2023,Sale,LDP,38298949,0,5,False,True,41,SG,67,8934,433,227
+38 m²,"3,2 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,37945228,0,5,False,True,41,SG,67,8950,2097,227
+65 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,34027995,0,5,False,False,283,SG,67,8947,837,227
+75 m²,"2,1 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Có sổ,N/A,16/10/2023,26/10/2023,Sale,LDP,24457892,478,5,False,False,324,SG,67,8948,3788,227
+203 m²,"21,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38147030,0,5,False,False,163,SG,67,8939,4709,227
+106 m²,"4,5 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37496041,1109,5,False,False,324,SG,67,8935,4707,227
+51 m²,"3,65 tỷ",N/A,6 m,N/A,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38331714,0,5,False,False,41,SG,67,8943,0,227
+"39,4 m²","5,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38160709,0,5,False,False,41,SG,67,8936,4706,227
+98 m²,"4,4 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Hợp đồng mua bán,N/A,07/10/2023,22/10/2023,Sale,LDP,26552969,1299,5,False,True,324,SG,67,8935,1433,227
+90 m²,7 tỷ,N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,11/10/2023,26/10/2023,Sale,LDP,38036169,0,5,False,False,41,SG,67,8945,0,227
+38 m²,Thỏa thuận,"4,05 m",4 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38076553,0,5,False,False,41,SG,67,8950,11232,227
+60 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38172515,0,5,False,False,41,SG,67,8941,837,227
+58 m²,Thỏa thuận,4 m,5 m,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,"Tặng toàn bộ nội thất cao cấp tivi 65inches smart 4k, tủ lạnh side by side, 4 máy lạnh, máy giặt...",16/10/2023,26/10/2023,Sale,LDP,36959971,0,5,False,False,41,SG,67,8941,13732,227
+48 m²,"4,25 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,12/10/2023,22/10/2023,Sale,LDP,38304719,0,5,False,True,41,SG,67,8946,650,227
+35 m²,"3,85 tỷ",N/A,4 m,3 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38240611,0,5,False,False,41,SG,67,8950,0,227
+46 m²,"1,75 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38331621,1304,5,False,False,324,SG,67,8938,0,227
+35 m²,"4,08 tỷ",N/A,N/A,4 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,20/10/2023,30/10/2023,Sale,LDP,38286000,0,5,False,False,41,SG,67,8950,650,227
+41 m²,"4,07 tỷ","4,1 m",3 m,2 tầng,Đông - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,31/10/2023,Sale,LDP,36662377,0,5,False,False,41,SG,67,8938,4706,227
+48 m²,"4,25 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,"Thiết kế tinh tế và hiện đại, Gia Chủ tặng toàn bộ nội thất cao cấp gồm TV, Tủ lạnh, 3 máy lạnh, Sofa, giường, tủ sử dụng nước NLMT.",16/10/2023,26/10/2023,Sale,LDP,38245438,0,5,False,False,41,SG,67,8941,837,227
+41 m²,"3,79 tỷ",N/A,N/A,3 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38318390,0,5,False,False,41,SG,67,8947,837,227
+65 m²,"6,7 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,35717342,0,5,False,False,41,SG,67,8936,4706,227
+"367,5 m²",52 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38332285,0,5,False,False,163,SG,67,8949,6940,227
+100 m²,17 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36551305,0,5,False,False,163,SG,67,8938,382,227
+196 m²,"16,5 tỷ",N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38279148,0,5,False,False,163,SG,67,8935,4707,227
+54 m²,"5,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32479094,0,5,False,False,283,SG,67,8937,2023,227
+100 m²,"13,2 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36566412,0,5,False,False,163,SG,67,8950,2097,227
+70 m²,"9,1 tỷ",N/A,8 m,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,28522168,0,5,False,False,41,SG,67,8939,3917,227
+80 m²,"13,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,23/10/2023,02/11/2023,Sale,LDP,38278608,0,5,False,False,163,SG,67,8943,366,227
+110 m²,"12,5 tỷ",5 m,8 m,4 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,35499964,0,5,False,False,41,SG,67,8949,836,227
+105 m²,"8,35 tỷ",4 m,N/A,1 tầng,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,33971124,0,5,False,False,41,SG,67,8939,382,227
+420 m²,60 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38302172,0,5,False,True,163,SG,67,8939,4706,227
+150 m²,"15,9 tỷ",10 m,7 m,3 tầng,N/A,N/A,4 phòng,6 phòng,Chuẩn,Cơ bản,16/10/2023,26/10/2023,Sale,LDP,38236134,0,5,False,False,41,SG,67,8937,2023,227
+"40,8 m²","4,07 tỷ",4 m,7 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Chuẩn.,Cao cấp.,14/10/2023,24/10/2023,Sale,LDP,38319026,0,5,False,False,41,SG,67,8938,4706,227
+95 m²,"15,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,13/10/2023,23/10/2023,Sale,LDP,38307969,0,5,False,True,163,SG,67,8942,6940,227
+45 m²,Thỏa thuận,N/A,5 m,3 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38332043,0,5,False,False,41,SG,67,8935,4707,227
+100 m²,"9,6 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,13/10/2023,23/10/2023,Sale,LDP,36751804,0,5,False,True,41,SG,67,8939,650,227
+68 m²,"1,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37892060,1293,5,False,False,324,SG,67,8947,837,227
+36 m²,"4,68 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38254752,0,5,False,False,41,SG,67,8947,837,227
+"66,3 m²","4,7 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,12/10/2023,22/10/2023,Sale,LDP,38306922,0,5,False,True,41,SG,67,8947,11271,227
+60 m²,Thỏa thuận,4 m,2 m,1 tầng,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,16/10/2023,31/10/2023,Sale,LDP,38183934,0,5,False,False,41,SG,67,8943,2097,227
+74 m²,"5,8 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,38196220,0,5,False,False,41,SG,67,8950,11206,227
+88 m²,"11,9 tỷ",N/A,N/A,3 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38299208,0,5,False,True,163,SG,67,8937,2023,227
+75 m²,"7,99 tỷ","4,2 m",8 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,15/11/2023,Sale,LDP,37859596,0,5,False,False,41,SG,67,8940,366,227
+64 m²,"10,2 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331121,0,5,False,False,163,SG,67,8949,4788,227
+1.600 m²,180 tỷ,N/A,N/A,6 tầng,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,37065199,0,5,False,False,163,SG,67,8934,512,227
+85 m²,"3,82 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38331003,2409,5,False,False,324,SG,67,8942,382,227
+"119,1 m²","15,5 tỷ","4,2 m",12 m,2 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,19/09/2023,19/10/2023,Sale,LDP,37044494,0,5,False,True,163,SG,67,8943,11206,227
+45 m²,"4,5 tỷ","4,5 m",3 m,3 tầng,Đông - Nam,N/A,3 phòng,2 phòng,N/A,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,38196470,0,5,False,True,41,SG,67,8940,11207,227
+54 m²,"1,4 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38252948,1293,5,False,False,324,SG,67,8947,837,227
+1.000 m²,95 tỷ,25 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36419485,0,5,False,False,163,SG,67,8945,727,227
+100 m²,"17,5 tỷ",5 m,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,11/10/2023,21/10/2023,Sale,LDP,38169105,2409,5,False,True,163,SG,67,8942,382,227
+2.706 m²,171 tỷ,N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38327901,0,5,False,False,163,SG,67,8946,650,227
+170 m²,21 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37664391,0,5,False,False,163,SG,67,8943,2097,227
+100 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,37782590,0,5,False,False,283,SG,67,8949,650,227
+134 m²,22 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,36909304,0,5,False,False,163,SG,67,8940,366,227
+42 m²,5 tỷ,7 m,N/A,4 tầng,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,38299637,0,5,False,False,41,SG,67,8940,4713,227
+53 m²,"6,17 tỷ",N/A,N/A,3 tầng,N/A,N/A,5 phòng,N/A,Sổ hồng chính chủ,Nội thất đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38328651,0,5,False,False,41,SG,67,8935,1994,227
+712 m²,60 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,37335602,0,5,False,False,163,SG,67,8943,2097,227
+144 m²,19 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38330024,0,5,False,False,41,SG,67,8938,2023,227
+66 m²,"7,8 tỷ",N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38222462,0,5,False,False,41,SG,67,8938,2023,227
+49 m²,Thỏa thuận,7 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,35542934,0,5,False,False,41,SG,67,8942,366,227
+21 m²,"2,95 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,3 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38187605,0,5,False,False,41,SG,67,8942,366,227
+66 m²,"6,6 tỷ",N/A,N/A,N/A,Đông - Bắc,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38105348,0,5,False,False,41,SG,67,8940,11227,227
+73 m²,"3,75 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38065369,2409,5,False,False,324,SG,67,8942,382,227
+15 m²,"1,7 tỷ",4 m,3 m,2 tầng,Nam,N/A,1 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38131827,0,5,False,False,41,SG,67,8945,727,227
+95 m²,8 tỷ,4 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38253237,0,5,False,False,41,SG,67,8941,837,227
+58 m²,"5,3 tỷ",6 m,6 m,N/A,Đông - Bắc,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38134793,0,5,False,False,283,SG,67,8947,727,227
+"45,9 m²","3,9 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38167111,0,5,False,False,41,SG,67,8942,366,227
+100 m²,8 tỷ,4 m,4 m,N/A,Đông,Đông,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38239768,0,5,False,False,41,SG,67,8935,4706,227
+300 m²,26 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38279220,0,5,False,False,163,SG,67,8949,836,227
+56 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,37664614,0,5,False,False,41,SG,67,8935,4707,227
+48 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38248211,0,5,False,False,41,SG,67,8947,837,227
+100 m²,28 tỷ,5 m,36 m,5 tầng,N/A,N/A,8 phòng,7 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,35523571,2409,5,False,False,325,SG,67,8942,382,227
+134 m²,"12,5 tỷ",N/A,N/A,3 tầng,N/A,N/A,22 phòng,22 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38329775,0,5,False,False,163,SG,67,8937,11289,227
+"198,8 m²","13,2 tỷ",N/A,N/A,N/A,Đông,Đông,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,28851631,0,5,False,False,41,SG,67,8935,4706,227
+120 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36897309,0,5,False,False,41,SG,67,8943,13732,227
+80 m²,"6,8 tỷ",4 m,4 m,N/A,Tây - Nam,Tây - Nam,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38329600,0,5,False,False,41,SG,67,8937,2023,227
+75 m²,"5,5 tỷ",N/A,N/A,N/A,Tây - Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,33541402,0,5,False,False,283,SG,67,8948,11192,227
+65 m²,"7,2 tỷ",5 m,8 m,4 tầng,Tây - Nam,N/A,4 phòng,6 phòng,Sổ đỏ/ Sổ hồng,"Nội thất đầy đủ: Tủ lạnh, máy giặt, giường, tủ, bàn trang điểm...",16/10/2023,26/10/2023,Sale,LDP,37146901,0,5,False,False,41,SG,67,8948,650,227
+"36,6 m²","5,9 tỷ",N/A,N/A,N/A,Tây - Bắc,N/A,3 phòng,3 phòng,Sổ đỏ chính chủ.,N/A,09/10/2023,19/10/2023,Sale,LDP,38177468,0,5,False,True,41,SG,67,8941,13732,227
+86 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,35889374,0,5,False,False,283,SG,67,8939,4709,227
+240 m²,Thỏa thuận,20 m,8 m,1 tầng,N/A,N/A,2 phòng,1 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38175930,0,5,False,False,163,SG,67,8948,650,227
+75 m²,"3,6 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,21/10/2023,31/10/2023,Sale,LDP,38115643,2409,5,False,False,324,SG,67,8942,382,227
+264 m²,36 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38329221,0,5,False,False,163,SG,67,8939,382,227
+"66,4 m²",10 tỷ,N/A,6 m,4 tầng,Đông - Bắc,N/A,16 phòng,16 phòng,Sổ đỏ / Sổ Hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,37926876,0,5,False,False,41,SG,67,8938,4706,227
+100 m²,"16,8 tỷ",5 m,12 m,5 tầng,Bắc,Bắc,5 phòng,5 phòng,Sổ hồng.,Cơ bản,19/10/2023,29/10/2023,Sale,LDP,35048063,2409,5,False,False,325,SG,67,8942,382,227
+"102,4 m²","9,5 tỷ",6 m,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,37927918,0,5,False,False,283,SG,67,8938,4773,227
+116 m²,"8,1 tỷ",N/A,6 m,2 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38320217,0,5,False,False,41,SG,67,8946,650,227
+80 m²,"7,9 tỷ",N/A,8 m,4 tầng,N/A,N/A,8 phòng,8 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38320099,0,5,False,False,41,SG,67,8940,366,227
+33 m²,"4,79 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,10/10/2023,20/10/2023,Sale,LDP,37700593,0,5,False,True,163,SG,67,8950,11233,227
+56 m²,"7,2 tỷ",N/A,N/A,N/A,N/A,N/A,6 phòng,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38329031,0,5,False,False,41,SG,67,8939,4709,227
+200 m²,28 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11/10/2023,21/10/2023,Sale,LDP,37182953,0,5,False,True,163,SG,67,8943,4713,227
+"69,3 m²","5,2 tỷ",N/A,N/A,2 tầng,Đông,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,31/10/2023,Sale,LDP,38329250,0,5,False,False,41,SG,67,8949,650,227
+"53,3 m²","5,3 tỷ",N/A,N/A,N/A,Tây - Nam,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32627645,0,5,False,False,283,SG,67,8937,2023,227
+"53,3 m²","5,3 tỷ",N/A,N/A,N/A,Tây - Nam,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32495789,0,5,False,False,283,SG,67,8937,2023,227
+"31,5 m²","2,9 tỷ",N/A,N/A,1 tầng,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36340061,0,5,False,False,41,SG,67,8935,4705,227
+68 m²,"9,8 tỷ",N/A,N/A,3 tầng,Đông - Bắc,N/A,7 phòng,6 phòng,Hợp đồng mua bán,N/A,16/10/2023,26/10/2023,Sale,LDP,32089372,0,5,False,False,163,SG,67,8935,212,227
+70 m²,"9,1 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,35048563,0,5,False,False,41,SG,67,8939,650,227
+65 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38328974,0,5,False,False,163,SG,67,8935,4707,227
+423 m²,23 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38278933,0,5,False,False,163,SG,67,8945,827,227
+54 m²,"6,49 tỷ",N/A,N/A,N/A,N/A,N/A,5 phòng,5 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38063536,0,5,False,True,41,SG,67,8937,650,227
+255 m²,27 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,19/10/2023,29/10/2023,Sale,LDP,38279276,0,5,False,False,163,SG,67,8942,6940,227
+56 m²,"6,3 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38328897,0,5,False,False,41,SG,67,8937,650,227
+64 m²,"8,6 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,23/10/2023,02/11/2023,Sale,LDP,38104758,0,5,False,False,41,SG,67,8945,232,227
+45 m²,"6,88 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38108556,0,5,False,True,41,SG,67,8937,6938,227
+81 m²,15 tỷ,N/A,N/A,N/A,N/A,N/A,4 phòng,5 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,36660338,0,5,False,False,163,SG,67,8943,366,227
+55 m²,"5,9 tỷ",5 m,N/A,4 tầng,Tây - Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,23/10/2023,02/11/2023,Sale,LDP,38143421,0,5,False,False,41,SG,67,8943,2097,227
+52 m²,Thỏa thuận,4 m,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37166680,0,5,False,False,41,SG,67,8938,4773,227
+50 m²,"1,5 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38286244,1293,5,False,False,324,SG,67,8947,837,227
+100 m²,9 tỷ,N/A,N/A,N/A,N/A,N/A,5 phòng,5 phòng,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,37632529,0,5,False,False,41,SG,67,8941,13732,227
+80 m²,"8,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38328877,0,5,False,False,41,SG,67,8942,366,227
+"83,8 m²","5,45 tỷ",N/A,N/A,2 tầng,Tây - Nam,N/A,5 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,31/10/2023,Sale,LDP,38004365,0,5,False,False,41,SG,67,8945,4761,227
+90 m²,"7,2 tỷ",N/A,N/A,3 tầng,Tây - Bắc,N/A,3 phòng,4 phòng,N/A,Nội thất bàn giao full option.,16/10/2023,26/10/2023,Sale,LDP,37513302,0,5,False,False,41,SG,67,8938,4706,227
+20 m²,"2,3 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32476945,0,5,False,False,41,SG,67,8935,4707,227
+858 m²,77 tỷ,20 m,12 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38250618,0,5,False,False,283,SG,67,8940,366,227
+"109,62 m²","11,5 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,35044977,0,5,False,False,41,SG,67,8947,366,227
+40 m²,"5,27 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38330206,0,5,False,False,41,SG,67,8947,727,227
+70 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38132116,0,5,False,False,283,SG,67,8947,837,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38330629,0,5,False,False,283,SG,67,8947,837,227
+65 m²,"2,3 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38330506,1303,5,False,False,324,SG,67,8949,0,227
+"366,3 m²",51 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38301338,0,5,False,True,163,SG,67,8934,1530,227
+110 m²,"11,9 tỷ","4,3 m",10 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cao cấp.,16/10/2023,26/10/2023,Sale,LDP,38125509,0,5,False,False,163,SG,67,8939,382,227
+70 m²,"3,8 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,36436094,2256,5,False,False,324,SG,67,8934,433,227
+78 m²,"2,45 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Không nội thất.,16/10/2023,26/10/2023,Sale,LDP,37960115,478,5,False,False,324,SG,67,8948,650,227
+36 m²,"5,27 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38330029,0,5,False,False,41,SG,67,8947,727,227
+"163,4 m²",14 tỷ,8 m,7 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,09/10/2023,19/10/2023,Sale,LDP,37450850,0,5,False,True,41,SG,67,8937,2023,227
+65 m²,"7,99 tỷ",4 m,6 m,5 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Nội thất cao cấp.,16/10/2023,26/10/2023,Sale,LDP,38330249,0,5,False,False,41,SG,67,8943,11207,227
+73 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37180631,0,5,False,False,41,SG,67,8947,11273,227
+99 m²,"4,9 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,Hợp đồng mua bán,Đầy đủ,16/10/2023,31/10/2023,Sale,LDP,38329475,1299,5,False,False,324,SG,67,8935,1433,227
+"56,8 m²","8,6 tỷ",4 m,5 m,4 tầng,Tây - Bắc,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38325778,0,5,False,False,163,SG,67,8941,837,227
+50 m²,5 tỷ,"3,63 m","2,19 m",1 tầng,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng,Không nội thất.,11/10/2023,10/11/2023,Sale,LDP,37875806,0,5,False,False,41,SG,67,8950,6940,227
+220 m²,35 tỷ,N/A,N/A,4 tầng,N/A,N/A,6 phòng,6 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38113110,2409,5,False,False,325,SG,67,8942,382,227
+1.300 m²,115 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38328464,0,5,False,False,163,SG,67,8934,350,227
+59 m²,"13,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38328491,0,5,False,False,163,SG,67,8936,4706,227
+500 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,28/10/2023,Sale,LDP,38312441,0,5,False,False,283,SG,67,8949,6940,227
+96 m²,"13,8 tỷ",N/A,N/A,4 tầng,Tây,N/A,4 phòng,N/A,Đã có sổ,Full nội thất cao cấp,16/10/2023,31/10/2023,Sale,LDP,37955546,0,5,False,False,41,SG,67,8940,366,227
+64 m²,"12,4 tỷ",N/A,N/A,5 tầng,Tây - Bắc,N/A,4 phòng,6 phòng,Đã có sổ.,Cao cấp.,16/10/2023,31/10/2023,Sale,LDP,38160189,0,5,False,False,41,SG,67,8947,837,227
+40 m²,4 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38006779,0,5,False,False,41,SG,67,8943,11221,227
+67 m²,Thỏa thuận,N/A,5 m,4 tầng,N/A,N/A,3 phòng,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38305846,0,5,False,True,41,SG,67,8945,3922,227
+80 m²,"7,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,33552357,0,5,False,False,163,SG,67,8938,11221,227
+90 m²,"7,5 tỷ",N/A,5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37916144,0,5,False,False,41,SG,67,8937,650,227
+68 m²,"7,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38234535,0,5,False,False,41,SG,67,8938,2023,227
+167 m²,15 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng riêng.,N/A,16/10/2023,26/10/2023,Sale,LDP,29555683,0,5,False,False,163,SG,67,8949,11217,227
+75 m²,"10,7 tỷ",N/A,N/A,4 tầng,Đông,N/A,4 phòng,5 phòng,Đã có sổ,Full nội thất.,16/10/2023,31/10/2023,Sale,LDP,37740136,0,5,False,False,41,SG,67,8947,727,227
+100 m²,"13,5 tỷ","5,6 m",N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Không nội thất,11/10/2023,21/10/2023,Sale,LDP,36226678,0,5,False,True,163,SG,67,8936,4706,227
+60 m²,"2,1 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,35890190,478,5,False,False,324,SG,67,8948,3788,227
+60 m²,"5,2 tỷ",4 m,12 m,4 tầng,Đông - Nam,Đông - Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,28/09/2023,28/10/2023,Sale,LDP,36743711,0,5,False,False,163,SG,67,8938,4706,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38328333,0,5,False,False,283,SG,67,8947,0,227
+60 m²,5 tỷ,4 m,12 m,4 tầng,Đông - Nam,Đông - Nam,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,28/09/2023,28/10/2023,Sale,LDP,36358554,0,5,False,False,163,SG,67,8938,4706,227
+48 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38328432,0,5,False,False,41,SG,67,8949,836,227
+"38,5 m²","6,5 tỷ","4,5 m",5 m,5 tầng,Tây - Bắc,Tây - Bắc,3 phòng,4 phòng,Đã có Sổ Hồng,Cao cấp,16/10/2023,31/10/2023,Sale,LDP,38190168,0,5,False,False,41,SG,67,8938,4773,227
+56 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38328413,0,5,False,False,41,SG,67,8940,366,227
+96 m²,"8,7 tỷ",N/A,6 m,2 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38322127,0,5,False,False,41,SG,67,8947,837,227
+72 m²,9 tỷ,4 m,4 m,4 tầng,Đông - Bắc,Đông - Bắc,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,21/10/2023,31/10/2023,Sale,LDP,38199025,0,5,False,False,41,SG,67,8938,382,227
+37 m²,"5,4 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38324139,0,5,False,False,41,SG,67,8945,727,227
+285 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38320134,0,5,False,False,283,SG,67,8949,6940,227
+"53,3 m²","5,3 tỷ",N/A,N/A,1 tầng,Tây - Nam,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38248130,0,5,False,False,41,SG,67,8938,2023,227
+48 m²,"5,85 tỷ",4 m,4 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ Hồng Riêng,Cao Cấp.,16/10/2023,26/10/2023,Sale,LDP,38328345,0,5,False,False,41,SG,67,8940,366,227
+300 m²,"17,4 tỷ",15 m,25 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38318709,0,5,False,False,283,SG,67,8941,837,227
+290 m²,"16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38319450,0,5,False,False,283,SG,67,8941,13732,227
+220 m²,33 tỷ,N/A,N/A,8 tầng,N/A,N/A,8 phòng,8 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38316667,0,5,False,True,163,SG,67,8940,366,227
+"29,75 m²","3,2 tỷ",4 m,5 m,3 tầng,Tây - Nam,N/A,4 phòng,2 phòng,Đã có sổ.,Nhà trống,16/10/2023,31/10/2023,Sale,LDP,38322375,0,5,False,False,41,SG,67,8941,837,227
+80 m²,"7,1 tỷ",15 m,N/A,2 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,09/10/2023,19/10/2023,Sale,LDP,38274929,0,5,False,True,41,SG,67,8950,2097,227
+"59,5 m²","11,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38328331,0,5,False,False,41,SG,67,8947,837,227
+85 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đã có sổ,N/A,16/10/2023,26/10/2023,Sale,LDP,36866951,0,5,False,False,283,SG,67,8940,13732,227
+150 m²,"15,5 tỷ",N/A,10 m,4 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,12/10/2023,22/10/2023,Sale,LDP,38305127,0,5,False,True,325,SG,67,8937,2023,227
+93 m²,"10,8 tỷ",N/A,N/A,2 tầng,N/A,N/A,N/A,N/A,N/A,N/A,21/10/2023,31/10/2023,Sale,LDP,34905071,0,5,False,False,163,SG,67,8938,11221,227
+75 m²,"4,98 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38325943,0,5,False,False,41,SG,67,8939,382,227
+80 m²,"10,5 tỷ",N/A,32 m,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,38221454,0,5,False,False,163,SG,67,8941,4510,227
+75 m²,"6,5 tỷ",8 m,21 m,3 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,16/10/2023,26/10/2023,Sale,LDP,37922302,0,5,False,False,41,SG,67,8945,727,227
+50 m²,"6,65 tỷ","3,8 m",5 m,4 tầng,N/A,N/A,6 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,16/10/2023,26/10/2023,Sale,LDP,38328168,0,5,False,False,41,SG,67,8939,382,227
+42 m²,"4,9 tỷ",N/A,N/A,4 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38328201,0,5,False,False,41,SG,67,8945,727,227
+90 m²,3 tỷ,N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38323027,478,5,False,False,324,SG,67,8948,650,227
+75 m²,"5,8 tỷ","4,2 m","4,5 m",3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38326307,0,5,False,False,41,SG,67,8941,837,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,38020719,0,5,False,False,283,SG,67,8939,2023,227
+"44,8 m²",Thỏa thuận,6 m,6 m,4 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38326137,0,5,False,False,41,SG,67,8949,6940,227
+75 m²,"6,6 tỷ",10 m,15 m,3 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,37890544,0,5,False,False,41,SG,67,8947,727,227
+56 m²,"6,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,16/10/2023,26/10/2023,Sale,LDP,38242890,0,5,False,False,41,SG,67,8937,650,227
+"37,6 m²",Thỏa thuận,5 m,5 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,16/10/2023,26/10/2023,Sale,LDP,38326766,0,5,False,False,41,SG,67,8947,11294,227
+63 m²,"6,5 tỷ",N/A,N/A,N/A,N/A,N/A,5 phòng,6 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38243172,0,5,False,False,41,SG,67,8943,2097,227
+43 m²,"4,5 tỷ",4 m,4 m,3 tầng,N/A,N/A,2 phòng,2 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,38327910,0,5,False,False,41,SG,67,8941,11219,227
+48 m²,6 tỷ,4 m,5 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,16/10/2023,26/10/2023,Sale,LDP,38327911,0,5,False,False,41,SG,67,8942,382,227
+70 m²,Thỏa thuận,12 m,9 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38328265,0,5,False,False,283,SG,67,8946,650,227
+60 m²,"5,8 tỷ",N/A,N/A,2 tầng,Tây - Bắc,Tây - Bắc,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,N/A,16/10/2023,26/10/2023,Sale,LDP,38328151,0,5,False,False,41,SG,67,8935,4707,227
+40 m²,"5,27 tỷ",5 m,5 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ Hồng Riêng.,Cao Cấp,16/10/2023,26/10/2023,Sale,LDP,38328242,0,5,False,False,41,SG,67,8945,727,227
+102 m²,"17,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32404403,0,5,False,False,163,SG,67,8939,4710,227
+199 m²,"20,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36510502,0,5,False,False,163,SG,67,8935,4705,227
+102 m²,"18,6 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,36831586,0,5,False,False,163,SG,67,8938,382,227
+90 m²,"10,1 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,32602535,0,5,False,False,41,SG,67,8938,4706,227
+100 m²,17 tỷ,5 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16/10/2023,26/10/2023,Sale,LDP,37247592,2409,5,False,False,325,SG,67,8942,6940,227
+75 m²,"8,3 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,16/10/2023,26/10/2023,Sale,LDP,37747878,0,5,False,False,41,SG,67,8942,6940,227
+"73,1 m²",9 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Cơ bản.,13/10/2023,28/10/2023,Sale,LDP,38072161,0,5,False,False,41,SG,67,8934,433,227
+80 m²,9 tỷ,5 m,8 m,2 tầng,N/A,N/A,9 phòng,10 phòng,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,38252808,0,5,False,False,41,SG,67,8937,2023,227
+70 m²,"8,7 tỷ",N/A,N/A,3 tầng,N/A,N/A,6 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38327631,0,5,False,False,41,SG,67,8949,650,227
+53 m²,"6,36 tỷ",5 m,5 m,5 tầng,N/A,N/A,5 phòng,6 phòng,Sổ Hồng Riêng.,Cao Cấp,15/10/2023,25/10/2023,Sale,LDP,38327337,0,5,False,False,41,SG,67,8946,650,227
+44 m²,6 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38326480,0,5,False,False,41,SG,67,8942,382,227
+220 m²,35 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37352748,2409,5,False,False,325,SG,67,8942,11219,227
+100 m²,"21,8 tỷ",5 m,12 m,N/A,Nam,Nam,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37439863,2409,5,False,False,325,SG,67,8942,382,227
+56 m²,"4,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38327064,0,5,False,False,41,SG,67,8940,366,227
+68 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,37888813,0,5,False,False,41,SG,67,8947,727,227
+"67,5 m²",Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38327045,0,5,False,False,41,SG,67,8949,836,227
+423 m²,50 triệu/m²,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38270213,0,5,False,False,41,SG,67,8945,827,227
+88 m²,"10,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,6 phòng,5 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38161010,0,5,False,False,163,SG,67,8943,2097,227
+70 m²,"7,5 tỷ",4 m,8 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Nội thất cao cấp.,11/10/2023,21/10/2023,Sale,LDP,38296510,0,5,False,True,41,SG,67,8947,837,227
+160 m²,17 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,20/10/2023,30/10/2023,Sale,LDP,38280648,0,5,False,False,41,SG,67,8938,2023,227
+95 m²,"10,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37719085,0,5,False,False,41,SG,67,8937,3917,227
+75 m²,"3,7 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,38284446,2409,5,False,False,324,SG,67,8942,382,227
+120 m²,22 tỷ,8 m,20 m,3 tầng,Nam,Nam,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,12/10/2023,27/10/2023,Sale,LDP,38307018,0,5,False,False,325,SG,67,8939,382,227
+68 m²,Thỏa thuận,N/A,N/A,2 tầng,Đông - Nam,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,38290981,0,5,False,True,41,SG,67,8934,382,227
+57 m²,Thỏa thuận,"4,5 m",N/A,N/A,Đông - Nam,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,10/10/2023,20/10/2023,Sale,LDP,38290959,0,5,False,True,41,SG,67,8936,4784,227
+75 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,38131434,0,5,False,False,283,SG,67,8937,2023,227
+60 m²,"6,5 tỷ",N/A,N/A,4 tầng,Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38326751,0,5,False,False,41,SG,67,8943,366,227
+400 m²,36 tỷ,"7,5 m",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,36426255,0,5,False,False,163,SG,67,8949,836,227
+85 m²,"12,5 tỷ",5 m,8 m,3 tầng,Tây - Nam,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,12/10/2023,22/10/2023,Sale,LDP,38304943,0,5,False,True,163,SG,67,8945,1808,227
+80 m²,7 tỷ,12 m,6 m,1 tầng,Tây - Nam,Tây,2 phòng,2 phòng,Đầy đủ giấy tờ chính chủ.,Không có.,10/10/2023,09/11/2023,Sale,LDP,38072847,0,5,False,False,41,SG,67,8937,2023,227
+50 m²,"7,2 tỷ",5 m,6 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38326866,0,5,False,False,41,SG,67,8937,6938,227
+38 m²,"4,5 tỷ",5 m,5 m,4 tầng,N/A,N/A,4 phòng,4 phòng,Sổ Hồng Riêng.,Cơ Bản.,15/10/2023,25/10/2023,Sale,LDP,38326839,0,5,False,False,41,SG,67,8949,836,227
+72 m²,"5,8 tỷ",N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38326531,0,5,False,False,41,SG,67,8947,837,227
+"51,7 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38248910,0,5,False,False,163,SG,67,8943,366,227
+125 m²,"8,9 tỷ",5 m,6 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,36861491,0,5,False,False,41,SG,67,8943,4713,227
+55 m²,Thỏa thuận,5 m,N/A,4 tầng,N/A,N/A,3 phòng,4 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38144119,0,5,False,False,163,SG,67,8943,11215,227
+61 m²,"8,1 tỷ",N/A,4 m,4 tầng,Đông - Bắc,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,36926133,0,5,False,False,41,SG,67,8941,13732,227
+83 m²,"7,2 tỷ","5,6 m",6 m,1 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,35649557,0,5,False,False,41,SG,67,8937,2023,227
+30 m²,"3,3 tỷ",3 m,4 m,2 tầng,N/A,N/A,2 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38326312,0,5,False,False,41,SG,67,8949,650,227
+53 m²,"7,7 tỷ",4 m,12 m,5 tầng,N/A,N/A,5 phòng,6 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38326697,0,5,False,False,163,SG,67,8937,11289,227
+126 m²,"12,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11/10/2023,21/10/2023,Sale,LDP,37161848,0,5,False,True,41,SG,67,8938,2023,227
+112 m²,"10,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38311120,0,5,False,False,41,SG,67,8942,382,227
+80 m²,"7,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38326455,0,5,False,False,163,SG,67,8938,0,227
+120 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,38283648,0,5,False,True,41,SG,67,8938,2023,227
+95 m²,"8,8 tỷ",N/A,8 m,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37154329,0,5,False,True,41,SG,67,8949,836,227
+70 m²,Thỏa thuận,4 m,12 m,4 tầng,N/A,N/A,4 phòng,6 phòng,Đã có sổ.,Nội thất đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38056356,0,5,False,False,41,SG,67,8947,837,227
+48 m²,Thỏa thuận,6 m,5 m,3 tầng,Đông - Bắc,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38087486,0,5,False,False,41,SG,67,8942,6940,227
+50 m²,"1,45 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,1 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37889439,1293,5,False,True,324,SG,67,8947,837,227
+52 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37158153,0,5,False,False,41,SG,67,8942,6940,227
+66 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,36900426,0,5,False,False,41,SG,67,8935,4706,227
+40 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38172531,0,5,False,False,41,SG,67,8942,382,227
+"65,3 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38132208,0,5,False,False,283,SG,67,8938,2023,227
+52 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38169207,0,5,False,False,41,SG,67,8950,2097,227
+58 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,Sổ đỏ.,N/A,15/10/2023,25/10/2023,Sale,LDP,38224176,0,5,False,False,41,SG,67,8942,837,227
+56 m²,"8,5 tỷ",4 m,8 m,4 tầng,Đông - Nam,N/A,5 phòng,5 phòng,Đã có sổ hồng riêng,Đầy đủ nội thất,15/10/2023,25/10/2023,Sale,LDP,36788514,0,5,False,False,41,SG,67,8937,11289,227
+368 m²,40 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ.,N/A,12/10/2023,22/10/2023,Sale,LDP,38127647,0,5,False,True,163,SG,67,8940,366,227
+103 m²,"9,35 tỷ",4 m,20 m,3 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,30/10/2023,Sale,LDP,38324387,0,5,False,False,41,SG,67,8945,727,227
+179 m²,"11,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37925889,0,5,False,False,41,SG,67,8948,650,227
+68 m²,"11,5 tỷ",4 m,8 m,6 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38324433,0,5,False,False,41,SG,67,8947,11691,227
+70 m²,Thỏa thuận,N/A,6 m,3 tầng,N/A,N/A,4 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,37921407,0,5,False,False,41,SG,67,8947,727,227
+"140,4 m²","18,5 tỷ",N/A,N/A,N/A,N/A,N/A,19 phòng,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,36962791,0,5,False,False,41,SG,67,8942,366,227
+54 m²,"3,1 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,37753201,0,5,False,False,41,SG,67,8937,11216,227
+39 m²,"2,85 tỷ",3 m,3 m,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ Hồng Riêng.,Đầy Đủ.,15/10/2023,25/10/2023,Sale,LDP,38325990,0,5,False,False,41,SG,67,8950,650,227
+54 m²,"1,59 tỷ",N/A,N/A,N/A,N/A,N/A,1 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38325746,1293,5,False,False,324,SG,67,8947,837,227
+56 m²,"4,3 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12/10/2023,22/10/2023,Sale,LDP,38107436,0,5,False,True,41,SG,67,8942,366,227
+56 m²,"4,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hợp đồng mua bán,N/A,13/10/2023,23/10/2023,Sale,LDP,38308263,0,5,False,True,41,SG,67,8938,4706,227
+1.000 m²,139 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,34544178,0,5,False,False,163,SG,67,8936,4706,227
+200 m²,"17,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,14/11/2023,Sale,LDP,37545707,0,5,False,False,283,SG,67,8943,366,227
+186 m²,"16,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,14/11/2023,Sale,LDP,31557760,0,5,False,False,41,SG,67,8950,11217,227
+200 m²,"26,5 tỷ",8 m,N/A,4 tầng,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,14/11/2023,Sale,LDP,33377295,0,5,False,False,163,SG,67,8950,2097,227
+200 m²,"17,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,14/11/2023,Sale,LDP,37679064,0,5,False,False,41,SG,67,8943,366,227
+111 m²,20 tỷ,N/A,N/A,2 tầng,N/A,N/A,3 phòng,2 phòng,N/A,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,31670495,0,5,False,False,163,SG,67,8942,382,227
+"48,8 m²","4,98 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38317298,0,5,False,True,41,SG,67,8943,13732,227
+517 m²,52 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,38127216,0,5,False,False,283,SG,67,8943,4713,227
+240 m²,37 tỷ,N/A,N/A,6 tầng,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,38127166,0,5,False,False,163,SG,67,8943,2097,227
+1.080 m²,105 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,37685364,0,5,False,False,163,SG,67,8947,837,227
+"195,72 m²","16,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,38129591,0,5,False,False,41,SG,67,8937,11237,227
+160 m²,49 tỷ,N/A,N/A,5 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,37468344,0,5,False,False,41,SG,67,8934,382,227
+45 m²,Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,13/10/2023,23/10/2023,Sale,LDP,38227191,0,5,False,True,41,SG,67,8942,366,227
+50 m²,"4,4 tỷ",4 m,6 m,2 tầng,N/A,N/A,3 phòng,3 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38325319,0,5,False,False,41,SG,67,8950,6940,227
+"36,5 m²","2,6 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38325650,0,5,False,False,41,SG,67,8938,2023,227
+77 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,13/10/2023,23/10/2023,Sale,LDP,37994855,2409,5,False,True,324,SG,67,8942,382,227
+500 m²,45 tỷ,10 m,12 m,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38325213,0,5,False,False,283,SG,67,8935,4707,227
+"52,5 m²",4 tỷ,"4,2 m",N/A,N/A,Đông - Nam,Đông - Nam,1 phòng,1 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,14/11/2023,Sale,LDP,37279386,0,5,False,False,41,SG,67,8945,4761,227
+72 m²,"3,5 tỷ",N/A,N/A,N/A,Đông - Bắc,Tây - Nam,2 phòng,2 phòng,N/A,Cơ bản.,15/10/2023,25/10/2023,Sale,LDP,37579658,1299,5,False,False,324,SG,67,8935,1433,227
+"68,9 m²",Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,27/10/2023,Sale,LDP,37468956,0,5,False,False,283,SG,67,8947,11273,227
+114 m²,16 tỷ,6 m,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10/10/2023,20/10/2023,Sale,LDP,37658581,1325,5,False,True,325,SG,67,8938,382,227
+91 m²,"6,6 tỷ","4,3 m",5 m,3 tầng,N/A,N/A,6 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,25/10/2023,Sale,LDP,38325018,0,5,False,False,41,SG,67,8945,727,227
+"25,2 m²","2,58 tỷ",4 m,2 m,1 tầng,Đông - Nam,Đông - Nam,2 phòng,2 phòng,Đã có sổ Hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,37356721,0,5,False,False,41,SG,67,8950,2097,227
+36 m²,"3,2 tỷ",N/A,N/A,2 tầng,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38325012,0,5,False,False,41,SG,67,8938,2636,227
+53 m²,"1,9 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,35097769,2094,5,False,False,324,SG,67,8946,650,227
+41 m²,"4,07 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38321274,0,5,False,False,41,SG,67,8938,4706,227
+54 m²,9 tỷ,8 m,8 m,3 tầng,Đông - Nam,Đông - Nam,5 phòng,7 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,20/10/2023,30/10/2023,Sale,LDP,37982297,0,5,False,False,41,SG,67,8935,4706,227
+40 m²,"4,3 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38248206,0,5,False,False,41,SG,67,8942,7795,227
+92 m²,"10,2 tỷ",7 m,7 m,1 tầng,Đông - Bắc,Đông - Bắc,4 phòng,4 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38093313,0,5,False,False,41,SG,67,8938,4706,227
+75 m²,3 tỷ,N/A,N/A,N/A,Bắc,Nam,3 phòng,2 phòng,Đang chờ sổ,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,34700555,2944,5,False,False,324,SG,67,8948,650,227
+44 m²,4 tỷ,"3,5 m","3,5 m",3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ Hồng Riêng.,Đầy Đủ.,15/10/2023,25/10/2023,Sale,LDP,38325099,0,5,False,False,41,SG,67,8941,13732,227
+75 m²,Thỏa thuận,N/A,N/A,N/A,Bắc,Nam,3 phòng,2 phòng,Đang chờ sổ,N/A,15/10/2023,25/10/2023,Sale,LDP,35083316,0,5,False,False,324,SG,67,8948,650,227
+120 m²,"13,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38324941,0,5,False,False,163,SG,67,8945,827,227
+"67,5 m²","8,4 tỷ",N/A,6 m,4 tầng,Đông,Đông,4 phòng,5 phòng,Sổ hồng riêng cầm tay,Full nội thất cao cấp,15/10/2023,25/10/2023,Sale,LDP,37178611,0,5,False,False,41,SG,67,8947,11273,227
+"46,8 m²","7,8 tỷ","4,2 m",8 m,4 tầng,Tây - Bắc,N/A,4 phòng,5 phòng,N/A,N/A,13/10/2023,12/11/2023,Sale,LDP,36509950,0,5,False,False,41,SG,67,8947,6272,227
+72 m²,"10,9 tỷ",4 m,6 m,4 tầng,Đông - Nam,Đông - Nam,4 phòng,6 phòng,Sổ hồng riêng cầm tay,Full nội thất cao cấp,15/10/2023,25/10/2023,Sale,LDP,38105072,0,5,False,False,41,SG,67,8949,11217,227
+"51,2 m²",Thỏa thuận,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38304264,0,5,False,True,41,SG,67,8938,11221,227
+60 m²,"5,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,38055122,0,5,False,True,283,SG,67,8948,650,227
+52 m²,"4,6 tỷ",N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,23/10/2023,02/11/2023,Sale,LDP,38294116,0,5,False,False,41,SG,67,8948,650,227
+51 m²,"5,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11/10/2023,21/10/2023,Sale,LDP,38297637,0,5,False,True,41,SG,67,8942,366,227
+64 m²,"7,4 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,37760367,0,5,False,False,41,SG,67,8939,4709,227
+48 m²,"4,95 tỷ",4 m,5 m,3 tầng,N/A,N/A,3 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38326009,0,5,False,False,41,SG,67,8947,837,227
+114 m²,"22,5 tỷ",N/A,N/A,4 tầng,N/A,N/A,4 phòng,5 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,35031053,1325,5,False,False,325,SG,67,8938,382,227
+85 m²,13 tỷ,N/A,N/A,3 tầng,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,38220400,0,5,False,False,163,SG,67,8935,115,227
+215 m²,"34,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20/10/2023,30/10/2023,Sale,LDP,38192407,2409,5,False,False,325,SG,67,8942,382,227
+60 m²,"5,9 tỷ",N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,15/10/2023,25/10/2023,Sale,LDP,38243952,0,5,False,False,41,SG,67,8935,4705,227
+72 m²,"7,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,38307462,0,5,False,False,41,SG,67,8938,2023,227
+230 m²,47 tỷ,8 m,N/A,9 tầng,N/A,N/A,51 phòng,52 phòng,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,35530992,0,5,False,False,163,SG,67,8938,2023,227
+75 m²,"14,4 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22/10/2023,01/11/2023,Sale,LDP,37674241,0,5,False,False,163,SG,67,8940,366,227
+280 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,4 phòng,3 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,35350471,0,5,False,True,41,SG,67,8949,6940,227
+100 m²,"29,5 tỷ",N/A,N/A,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,38133699,0,5,False,False,163,SG,67,8938,382,227
+138 m²,"19,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,37035208,0,5,False,False,163,SG,67,8949,836,227
+120 m²,12 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,36243921,0,5,False,False,41,SG,67,8938,2023,227
+201 m²,17 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ hồng,N/A,24/10/2023,03/11/2023,Sale,LDP,38146029,0,5,False,False,41,SG,67,8943,11227,227
+84 m²,"15,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37983941,0,5,False,True,163,SG,67,8942,382,227
+90 m²,"11,7 tỷ","5,5 m",12 m,1 tầng,N/A,N/A,N/A,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,37317894,0,5,False,False,41,SG,67,8949,4788,227
+"263,5 m²",30 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,37413205,0,5,False,True,163,SG,67,8945,4714,227
+48 m²,"7,2 tỷ",N/A,N/A,N/A,N/A,N/A,5 phòng,N/A,N/A,N/A,24/10/2023,03/11/2023,Sale,LDP,37760478,0,5,False,False,41,SG,67,8942,6940,227
+64 m²,"6,9 tỷ",4 m,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38324581,0,5,False,False,41,SG,67,8943,2097,227
+90 m²,"9,9 tỷ",5 m,8 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38232351,0,5,False,False,41,SG,67,8948,650,227
+120 m²,"8,9 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,24/10/2023,Sale,LDP,38322160,0,5,False,False,41,SG,67,8942,366,227
+96 m²,"9,1 tỷ",6 m,8 m,3 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38324925,0,5,False,False,41,SG,67,8947,727,227
+"49,6 m²",Thỏa thuận,N/A,N/A,1 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,N/A,12/10/2023,22/10/2023,Sale,LDP,38305814,0,5,False,True,41,SG,67,8941,837,227
+100 m²,"16,5 tỷ",5 m,16 m,3 tầng,N/A,N/A,4 phòng,2 phòng,N/A,N/A,15/10/2023,25/10/2023,Sale,LDP,38169788,2409,5,False,False,325,SG,67,8942,382,227
+40 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,N/A,N/A,13/10/2023,23/10/2023,Sale,LDP,36951515,0,5,False,True,41,SG,67,8949,11217,227
+60 m²,Thỏa thuận,4 m,5 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ hồng.,N/A,09/10/2023,19/10/2023,Sale,LDP,38275633,0,5,False,True,41,SG,67,8940,13732,227
+60 m²,"10,9 tỷ",N/A,6 m,5 tầng,N/A,N/A,5 phòng,7 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,09/10/2023,19/10/2023,Sale,LDP,37700304,0,5,False,True,41,SG,67,8947,837,227
+100 m²,"8,4 tỷ",N/A,N/A,2 tầng,N/A,N/A,4 phòng,4 phòng,Đã có sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,37780587,0,5,False,False,41,SG,67,8935,11222,227
+112 m²,"13,99 tỷ",7 m,10 m,5 tầng,N/A,N/A,8 phòng,8 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,37321324,0,5,False,False,41,SG,67,8939,3917,227
+40 m²,5 tỷ,3 m,3 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ Hồng Riêng,Cơ Bản,21/10/2023,31/10/2023,Sale,LDP,38295752,0,5,False,False,41,SG,67,8936,4706,227
+40 m²,4 tỷ,3 m,3 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ Hồng Riêng,Cao Cấp,21/10/2023,31/10/2023,Sale,LDP,38292915,0,5,False,False,41,SG,67,8950,6940,227
+40 m²,5 tỷ,6 m,6 m,3 tầng,N/A,N/A,4 phòng,4 phòng,Sổ hồng riêng,Cao Cấp,22/10/2023,01/11/2023,Sale,LDP,38301175,0,5,False,False,41,SG,67,8945,727,227
+100 m²,29 tỷ,5 m,30 m,5 tầng,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,35429424,2409,5,False,True,325,SG,67,8942,382,227
+45 m²,"3,95 tỷ",4 m,4 m,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,15/10/2023,25/10/2023,Sale,LDP,38324599,0,5,False,False,41,SG,67,8942,366,227
+42 m²,"4,5 tỷ",4 m,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,N/A,"Full, mới.",15/10/2023,30/10/2023,Sale,LDP,37953717,0,5,False,False,41,SG,67,8949,0,227
+75 m²,3 tỷ,N/A,N/A,N/A,N/A,N/A,3 phòng,2 phòng,N/A,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,36623985,2944,5,False,False,324,SG,67,8948,650,227
+"46,8 m²","5,3 tỷ","5,5 m",6 m,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,20/10/2023,30/10/2023,Sale,LDP,38286173,0,5,False,False,41,SG,67,8943,4713,227
+56 m²,"5,2 tỷ",4 m,5 m,2 tầng,N/A,N/A,3 phòng,2 phòng,N/A,N/A,15/10/2023,30/10/2023,Sale,LDP,37929013,0,5,False,False,41,SG,67,8950,6940,227
+"53,2 m²","5,4 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chuẩn,"Đầy đủ, mới hiện đại.",23/10/2023,02/11/2023,Sale,LDP,38220495,0,5,False,False,41,SG,67,8947,837,227
+"218,5 m²",19 tỷ,"11,5 m",5 m,3 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Đầy đủ.,15/10/2023,25/10/2023,Sale,LDP,38075819,0,5,False,False,41,SG,67,8943,366,227
+150 m²,21 tỷ,"6,5 m",20 m,2 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,Cơ bản,15/10/2023,25/10/2023,Sale,LDP,38155488,0,5,False,False,163,SG,67,8950,2097,227
+245 m²,28 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,37687285,0,5,False,False,163,SG,67,8949,650,227
+112 m²,"11,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,12/10/2023,22/10/2023,Sale,LDP,37959274,0,5,False,True,41,SG,67,8937,2023,227
+"20,4 m²","2,95 tỷ",N/A,N/A,3 tầng,Đông - Bắc,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,15/10/2023,25/10/2023,Sale,LDP,38324313,0,5,False,False,41,SG,67,8942,366,227
+180 m²,16 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,15/10/2023,25/10/2023,Sale,LDP,33180779,0,5,False,False,41,SG,67,0,4510,227
+76 m²,"12,1 tỷ",5 m,7 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38324281,0,5,False,False,41,SG,67,8946,650,227
+20 m²,"2,4 tỷ",N/A,N/A,N/A,N/A,N/A,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,14/10/2023,24/10/2023,Sale,LDP,38231995,0,5,False,False,41,SG,67,8947,0,227
+100 m²,16 tỷ,N/A,N/A,4 tầng,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,22/10/2023,01/11/2023,Sale,LDP,38208445,0,5,True,False,325,SG,67,8939,382,227
+60 m²,"6,88 tỷ",4 m,6 m,5 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,N/A,15/10/2023,30/10/2023,Sale,LDP,38324397,0,5,False,False,41,SG,67,8947,11273,227
+72 m²,"3,7 tỷ",N/A,N/A,N/A,Bắc,Nam,2 phòng,2 phòng,Sổ đỏ/ Sổ hồng.,Cơ bản.,14/10/2023,24/10/2023,Sale,LDP,36040305,2409,5,False,False,324,SG,67,8942,382,227
+50 m²,7 tỷ,N/A,N/A,2 tầng,N/A,N/A,2 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,14/10/2023,24/10/2023,Sale,LDP,38324120,0,5,False,False,163,SG,67,8934,0,227
+154 m²,"19,5 tỷ",N/A,N/A,3 tầng,Tây - Nam,Tây - Nam,16 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,14/10/2023,24/10/2023,Sale,LDP,37230597,0,5,False,False,163,SG,67,8941,4510,227
+90 m²,"4,7 tỷ",N/A,N/A,1 tầng,N/A,N/A,5 phòng,5 phòng,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,38235345,0,5,False,False,283,SG,67,8937,650,227
+140 m²,13 tỷ,N/A,N/A,2 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,24/10/2023,Sale,LDP,38323832,0,5,False,False,41,SG,67,8934,1530,227
+"39,99 m²","5,85 tỷ",N/A,N/A,N/A,N/A,N/A,4 phòng,N/A,Sổ đỏ/ Sổ hồng.,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38075266,0,5,False,False,41,SG,67,8948,2097,227
+100 m²,16 tỷ,N/A,N/A,4 tầng,N/A,N/A,6 phòng,7 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38078009,1325,5,False,False,163,SG,67,8938,382,227
+150 m²,"19,5 tỷ","7,5 m",8 m,4 tầng,N/A,N/A,6 phòng,7 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38324264,0,5,False,False,325,SG,67,8937,11237,227
+40 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,4 phòng,4 phòng,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38241624,0,5,False,False,41,SG,67,8934,1530,227
+69 m²,Thỏa thuận,5 m,5 m,2 tầng,Đông - Nam,N/A,3 phòng,2 phòng,SHR.,N/A,14/10/2023,24/10/2023,Sale,LDP,38323675,0,5,False,False,41,SG,67,8938,2023,227
+80 m²,Thỏa thuận,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38217922,0,5,False,False,283,SG,67,8937,650,227
+32 m²,Thỏa thuận,N/A,N/A,3 tầng,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,14/10/2023,24/10/2023,Sale,LDP,38227263,0,5,False,False,41,SG,67,8950,2097,227
+68 m²,"11,45 tỷ",4 m,8 m,4 tầng,N/A,N/A,4 phòng,5 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ,14/10/2023,24/10/2023,Sale,LDP,38323651,0,5,False,False,41,SG,67,8943,366,227
+124 m²,Thỏa thuận,N/A,20 m,4 tầng,Tây - Bắc,Tây - Bắc,7 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Cơ bản,20/09/2023,20/10/2023,Sale,LDP,38139991,0,5,False,True,163,SG,67,8938,5707,227
+160 m²,18 tỷ,8 m,296 m,3 tầng,Tây - Nam,Tây - Nam,16 phòng,16 phòng,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,24/10/2023,Sale,LDP,37697318,0,5,False,False,41,SG,67,8950,6940,227
+56 m²,"4,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,10/10/2023,20/10/2023,Sale,LDP,38290695,0,5,False,True,41,SG,67,8942,836,227
+180 m²,18 tỷ,"7,5 m",N/A,2 tầng,N/A,N/A,18 phòng,18 phòng,"Có sổ, pháp lý đầy đủ",N/A,14/10/2023,24/10/2023,Sale,LDP,36800228,0,5,False,False,41,SG,67,8950,6940,227
+107 m²,"14,9 tỷ",7 m,10 m,4 tầng,N/A,N/A,8 phòng,6 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ,14/10/2023,24/10/2023,Sale,LDP,38236706,0,5,False,False,325,SG,67,8939,3917,227
+250 m²,30 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14/10/2023,24/10/2023,Sale,LDP,38323396,0,5,False,False,163,SG,67,8949,650,227
+60 m²,"5,1 tỷ",N/A,N/A,N/A,N/A,N/A,3 phòng,3 phòng,Sổ đỏ/ Sổ hồng.,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38319476,0,5,False,False,41,SG,67,8948,2097,227
+42 m²,6 tỷ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09/10/2023,19/10/2023,Sale,LDP,38276711,0,5,False,True,41,SG,67,8942,382,227
+63 m²,Thỏa thuận,9 m,6 m,2 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Đầy đủ.,14/10/2023,24/10/2023,Sale,LDP,38156803,0,5,False,False,41,SG,67,8948,650,227
+60 m²,"4,5 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05/10/2023,04/11/2023,Sale,LDP,38245480,0,5,False,False,41,SG,67,8945,727,227
+65 m²,Thỏa thuận,"4,5 m",N/A,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ đỏ/ Sổ hồng,Cơ bản.,14/10/2023,24/10/2023,Sale,LDP,37784550,0,5,False,False,41,SG,67,8949,836,227
+55 m²,"2,59 tỷ","4,6 m",5 m,3 tầng,N/A,N/A,3 phòng,4 phòng,Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,37780736,0,5,False,False,41,SG,67,8945,4761,227
+204 m²,"10,3 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng,N/A,14/10/2023,24/10/2023,Sale,LDP,38040358,0,5,False,False,283,SG,67,8937,2023,227
+30 m²,"1,8 tỷ",N/A,N/A,2 tầng,Đông - Bắc,Đông - Bắc,2 phòng,2 phòng,Hợp đồng mua bán.,Cơ bản.,14/10/2023,24/10/2023,Sale,LDP,38315613,0,5,False,False,41,SG,67,8943,366,227
+60 m²,"7,8 tỷ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sổ đỏ/ Sổ hồng.,N/A,14/10/2023,24/10/2023,Sale,LDP,38322975,0,5,False,False,41,SG,67,8938,382,227
