@@ -1,22 +1,25 @@
 ---
 
-   Đầu tiên yêu cầu phải có 3 thư mục data-hcm-links, data-hcm-csv và data-hcm-cleaned nằm cùng thư mục mã nguồn:
-   + Với data-hcm-links: Đây là thư mục chứa dữ liệu về links bất động sản trong một quận, gồm các đường dẫn được ngăn cách nhau bởi xuống dòng mới (Chi tiết dữ liệu đọc file Mo_ta_Dataset.txt)
+First, there must be 3 folders data-hcm-links, data-hcm-csv and data-hcm-cleaned in the same source code folder:
 
-   + Với data-hcm-csv: Đây là thư mục chứa dữ liệu đầy đủ về bất động sản sau khi được truy cập batdongsan.com. Dữ liệu gồm các thông tin cơ bản về bất động sản, giá cả, mã quận, huyện (Chi tiết dữ liệu đọc file Mo_ta_Dataset.txt)
++ With data-hcm-links: This is the folder containing data about real estate links in a district, including paths separated by new lines (Data details read file Mo_ta_Dataset.txt)
 
-   + Với data-hcm-cleaned: Đây là thư mục chứa dữ liệu đã làm sạch từ thư mục data-hcm-csv.
++ With data-hcm-csv: This is the folder containing complete data about real estate after accessing batdongsan.com. The data includes basic information about real estate, prices, district codes (Data details read file Mo_ta_Dataset.txt)
 
-   Các bước để cào dữ liệu trên batdongsan.com với Python và bộ thư viện Selenium:
-   + Bước 1: Cài đặt các thư viện cần thiết trong file requirements.txt với cú pháp: pip install -r requirements.txt
++ With data-hcm-cleaned: This is the folder containing cleaned data from the data-hcm-csv folder.
 
-   + Bước 2: Chạy lần lượt các file python sau:
-   - B1_Gets_Links: Với file này, lựa chọn tên quân bạn muốn cào dữ liệu để cào các đường dẫn trong quận đó. Có thể tinh chỉnh với biến num_page là số max trang muốn cào, num_tabs là số tab Chrome được phép mở cùng lúc.
-    
-   - B2_Data_Scraper: Với file này, mã sẽ cào dữ liệu để lấy thông tin của từng đường dẫn đã lấy được sau khi chạy B1_Get_Links.py. Có thể tinh chỉnh với biến num_tabs là số tab Chrome được phép mở cùng lúc.
+Steps to scrape data on batdongsan.com with Python and Selenium library:
 
-   - B3_Clean_Data: Với file này, mã sẽ làm sạch dữ liệu được lấy từ thư mục data-hcm-csv để điền vào các chỗ bị thiếu, thay đổi loại biến, thống nhất chuyển sang tiếng anh.
++ Step 1: Install the necessary libraries in the requirements.txt file with the syntax: pip install -r requirements.txt
+
++ Step 2: Run the following python files in turn:
+
+- B1_Gets_Links: With this file, select the name of the district you want to scrape data to scrape the links in that district. You can fine-tune with the variable num_page which is the maximum number of pages you want to scrape, num_tabs is the number of Chrome tabs allowed to open at the same time.
+
+- B2_Data_Scraper: With this file, the code will scrape data to get information of each link obtained after running B1_Get_Links.py. You can fine-tune with the variable num_tabs which is the number of Chrome tabs allowed to open at the same time.
+
+- B3_Clean_Data: With this file, the code will clean the data taken from the data-hcm-csv folder to fill in the missing spaces, change the variable type, and unify the conversion to English.
 
 ---
 
-   Sau khi hoàn thành các bước trên, ta có được 3 tập dữ liệu về bất động sản thông qua việc cào dữ liệu từ trang web batdongsan.com
+After completing the above steps, we have 3 real estate data sets through scraping data from the website batdongsan.com
