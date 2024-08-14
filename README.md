@@ -1,5 +1,3 @@
-Dưới đây là phần mô tả README được chỉnh sửa theo yêu cầu của bạn:
-
 ---
 
 # Scratch-Website-Data
